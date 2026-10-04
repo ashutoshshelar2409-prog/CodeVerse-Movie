@@ -1,0 +1,4122 @@
+[
+  {
+    "id": "tt0111161",
+    "title": "The Shawshank Redemption",
+    "industry": "Hollywood",
+    "genres": [
+      "Drama"
+    ],
+    "year": 1994,
+    "rating": 9.3,
+    "language": "English",
+    "duration": 142,
+    "director": "Frank Darabont",
+    "cast": [
+      "Tim Robbins",
+      "Morgan Freeman"
+    ],
+    "overview": "A banker serving a life sentence forms an enduring friendship and finds hope inside prison.",
+    "poster": "https://images.metahub.space/poster/medium/tt0111161/img"
+  },
+  {
+    "id": "tt0068646",
+    "title": "The Godfather",
+    "industry": "Hollywood",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "year": 1972,
+    "rating": 9.2,
+    "language": "English",
+    "duration": 175,
+    "director": "Francis Ford Coppola",
+    "cast": [
+      "Marlon Brando",
+      "Al Pacino"
+    ],
+    "overview": "The aging patriarch of a crime dynasty transfers control of his empire to his reluctant son.",
+    "poster": "https://images.metahub.space/poster/medium/tt0068646/img"
+  },
+  {
+    "id": "tt0071562",
+    "title": "The Godfather Part II",
+    "industry": "Hollywood",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "year": 1974,
+    "rating": 9.0,
+    "language": "English",
+    "duration": 202,
+    "director": "Francis Ford Coppola",
+    "cast": [
+      "Al Pacino",
+      "Robert De Niro"
+    ],
+    "overview": "The rise of a young Vito Corleone is interwoven with his son Michael's consolidation of the family empire.",
+    "poster": "https://images.metahub.space/poster/medium/tt0071562/img"
+  },
+  {
+    "id": "tt0468569",
+    "title": "The Dark Knight",
+    "industry": "Hollywood",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "year": 2008,
+    "rating": 9.0,
+    "language": "English",
+    "duration": 152,
+    "director": "Christopher Nolan",
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger"
+    ],
+    "overview": "Batman faces a criminal mastermind whose escalating campaign throws Gotham into chaos.",
+    "poster": "https://images.metahub.space/poster/medium/tt0468569/img"
+  },
+  {
+    "id": "tt0110912",
+    "title": "Pulp Fiction",
+    "industry": "Hollywood",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "year": 1994,
+    "rating": 8.9,
+    "language": "English",
+    "duration": 154,
+    "director": "Quentin Tarantino",
+    "cast": [
+      "John Travolta",
+      "Samuel L. Jackson"
+    ],
+    "overview": "Interconnected stories of criminals, a boxer and a gangster's wife unfold across Los Angeles.",
+    "poster": "https://images.metahub.space/poster/medium/tt0110912/img"
+  },
+  {
+    "id": "tt0167260",
+    "title": "The Lord of the Rings: The Return of the King",
+    "industry": "Hollywood",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "year": 2003,
+    "rating": 9.0,
+    "language": "English",
+    "duration": 201,
+    "director": "Peter Jackson",
+    "cast": [
+      "Elijah Wood",
+      "Viggo Mortensen"
+    ],
+    "overview": "The final battle for Middle-earth begins as the forces of good make their last stand.",
+    "poster": "https://images.metahub.space/poster/medium/tt0167260/img"
+  },
+  {
+    "id": "tt0167261",
+    "title": "The Lord of the Rings: The Two Towers",
+    "industry": "Hollywood",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "year": 2002,
+    "rating": 8.8,
+    "language": "English",
+    "duration": 179,
+    "director": "Peter Jackson",
+    "cast": [
+      "Elijah Wood",
+      "Ian McKellen"
+    ],
+    "overview": "The Fellowship is broken while Aragorn, Frodo and their companions continue separate quests.",
+    "poster": "https://images.metahub.space/poster/medium/tt0167261/img"
+  },
+  {
+    "id": "tt0120737",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "industry": "Hollywood",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "year": 2001,
+    "rating": 8.8,
+    "language": "English",
+    "duration": 178,
+    "director": "Peter Jackson",
+    "cast": [
+      "Elijah Wood",
+      "Ian McKellen"
+    ],
+    "overview": "A hobbit and eight companions begin a journey to destroy a powerful ring.",
+    "poster": "https://images.metahub.space/poster/medium/tt0120737/img"
+  },
+  {
+    "id": "tt1375666",
+    "title": "Inception",
+    "industry": "Hollywood",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "year": 2010,
+    "rating": 8.8,
+    "language": "English",
+    "duration": 148,
+    "director": "Christopher Nolan",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt"
+    ],
+    "overview": "A specialist in entering dreams is offered a chance to erase his past by planting an idea in a target's mind.",
+    "poster": "https://images.metahub.space/poster/medium/tt1375666/img"
+  },
+  {
+    "id": "tt0133093",
+    "title": "The Matrix",
+    "industry": "Hollywood",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "year": 1999,
+    "rating": 8.7,
+    "language": "English",
+    "duration": 136,
+    "director": "The Wachowskis",
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne"
+    ],
+    "overview": "A hacker discovers that the reality he knows is an elaborate simulation.",
+    "poster": "https://images.metahub.space/poster/medium/tt0133093/img"
+  },
+  {
+    "id": "tt0109830",
+    "title": "Forrest Gump",
+    "industry": "Hollywood",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "year": 1994,
+    "rating": 8.8,
+    "language": "English",
+    "duration": 142,
+    "director": "Robert Zemeckis",
+    "cast": [
+      "Tom Hanks",
+      "Robin Wright"
+    ],
+    "overview": "A gentle man unknowingly influences several decades of American history while searching for lasting love.",
+    "poster": "https://images.metahub.space/poster/medium/tt0109830/img"
+  },
+  {
+    "id": "tt0816692",
+    "title": "Interstellar",
+    "industry": "Hollywood",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "year": 2014,
+    "rating": 8.7,
+    "language": "English",
+    "duration": 169,
+    "director": "Christopher Nolan",
+    "cast": [
+      "Matthew McConaughey",
+      "Anne Hathaway"
+    ],
+    "overview": "Explorers travel through a wormhole in search of a new home for humanity.",
+    "poster": "https://images.metahub.space/poster/medium/tt0816692/img"
+  },
+  {
+    "id": "tt0137523",
+    "title": "Fight Club",
+    "industry": "Hollywood",
+    "genres": [
+      "Drama"
+    ],
+    "year": 1999,
+    "rating": 8.8,
+    "language": "English",
+    "duration": 139,
+    "director": "David Fincher",
+    "cast": [
+      "Brad Pitt",
+      "Edward Norton"
+    ],
+    "overview": "An insomniac office worker forms an underground fight club with a charismatic stranger.",
+    "poster": "https://images.metahub.space/poster/medium/tt0137523/img"
+  },
+  {
+    "id": "tt0114369",
+    "title": "Se7en",
+    "industry": "Hollywood",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "year": 1995,
+    "rating": 8.6,
+    "language": "English",
+    "duration": 127,
+    "director": "David Fincher",
+    "cast": [
+      "Brad Pitt",
+      "Morgan Freeman"
+    ],
+    "overview": "Two detectives hunt a killer whose crimes are based on the seven deadly sins.",
+    "poster": "https://images.metahub.space/poster/medium/tt0114369/img"
+  },
+  {
+    "id": "tt0108052",
+    "title": "Schindler's List",
+    "industry": "Hollywood",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "year": 1993,
+    "rating": 9.0,
+    "language": "English",
+    "duration": 195,
+    "director": "Steven Spielberg",
+    "cast": [
+      "Liam Neeson",
+      "Ben Kingsley"
+    ],
+    "overview": "A German industrialist gradually risks everything to save Jewish workers during the Holocaust.",
+    "poster": "https://images.metahub.space/poster/medium/tt0108052/img"
+  },
+  {
+    "id": "tt0080684",
+    "title": "Star Wars: The Empire Strikes Back",
+    "industry": "Hollywood",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "year": 1980,
+    "rating": 8.7,
+    "language": "English",
+    "duration": 124,
+    "director": "Irvin Kershner",
+    "cast": [
+      "Mark Hamill",
+      "Harrison Ford"
+    ],
+    "overview": "The heroes face the Empire while Luke begins training as a Jedi.",
+    "poster": "https://images.metahub.space/poster/medium/tt0080684/img"
+  },
+  {
+    "id": "tt0076759",
+    "title": "Star Wars: A New Hope",
+    "industry": "Hollywood",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "year": 1977,
+    "rating": 8.6,
+    "language": "English",
+    "duration": 121,
+    "director": "George Lucas",
+    "cast": [
+      "Mark Hamill",
+      "Harrison Ford"
+    ],
+    "overview": "A farm boy joins a rebellion to rescue a princess and confront a powerful space empire.",
+    "poster": "https://images.metahub.space/poster/medium/tt0076759/img"
+  },
+  {
+    "id": "tt0088763",
+    "title": "Back to the Future",
+    "industry": "Hollywood",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "year": 1985,
+    "rating": 8.5,
+    "language": "English",
+    "duration": 116,
+    "director": "Robert Zemeckis",
+    "cast": [
+      "Michael J. Fox",
+      "Christopher Lloyd"
+    ],
+    "overview": "A teenager travels back to the 1950s in a time machine and risks changing his own future.",
+    "poster": "https://images.metahub.space/poster/medium/tt0088763/img"
+  },
+  {
+    "id": "tt0114709",
+    "title": "Toy Story",
+    "industry": "Hollywood",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "year": 1995,
+    "rating": 8.3,
+    "language": "English",
+    "duration": 81,
+    "director": "John Lasseter",
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen"
+    ],
+    "overview": "A cowboy doll feels threatened when a new space-ranger toy becomes his owner's favorite.",
+    "poster": "https://images.metahub.space/poster/medium/tt0114709/img"
+  },
+  {
+    "id": "tt0266543",
+    "title": "Finding Nemo",
+    "industry": "Hollywood",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "year": 2003,
+    "rating": 8.2,
+    "language": "English",
+    "duration": 100,
+    "director": "Andrew Stanton",
+    "cast": [
+      "Albert Brooks",
+      "Ellen DeGeneres"
+    ],
+    "overview": "A timid clownfish crosses the ocean to find his son after he is captured.",
+    "poster": "https://images.metahub.space/poster/medium/tt0266543/img"
+  },
+  {
+    "id": "tt0120815",
+    "title": "Saving Private Ryan",
+    "industry": "Hollywood",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "year": 1998,
+    "rating": 8.6,
+    "language": "English",
+    "duration": 169,
+    "director": "Steven Spielberg",
+    "cast": [
+      "Tom Hanks",
+      "Matt Damon"
+    ],
+    "overview": "A group of soldiers searches behind enemy lines for a paratrooper whose brothers have been killed.",
+    "poster": "https://images.metahub.space/poster/medium/tt0120815/img"
+  },
+  {
+    "id": "tt0102926",
+    "title": "The Silence of the Lambs",
+    "industry": "Hollywood",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "year": 1991,
+    "rating": 8.6,
+    "language": "English",
+    "duration": 118,
+    "director": "Jonathan Demme",
+    "cast": [
+      "Jodie Foster",
+      "Anthony Hopkins"
+    ],
+    "overview": "A young FBI trainee seeks help from an imprisoned killer to catch another murderer.",
+    "poster": "https://images.metahub.space/poster/medium/tt0102926/img"
+  },
+  {
+    "id": "tt0103064",
+    "title": "Terminator 2: Judgment Day",
+    "industry": "Hollywood",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "year": 1991,
+    "rating": 8.6,
+    "language": "English",
+    "duration": 137,
+    "director": "James Cameron",
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Linda Hamilton"
+    ],
+    "overview": "A reprogrammed machine protects a boy who will become humanity's future leader.",
+    "poster": "https://images.metahub.space/poster/medium/tt0103064/img"
+  },
+  {
+    "id": "tt0081505",
+    "title": "The Shining",
+    "industry": "Hollywood",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "year": 1980,
+    "rating": 8.4,
+    "language": "English",
+    "duration": 146,
+    "director": "Stanley Kubrick",
+    "cast": [
+      "Jack Nicholson",
+      "Shelley Duvall"
+    ],
+    "overview": "A writer and his family face a terrifying presence while isolated in a remote hotel.",
+    "poster": "https://images.metahub.space/poster/medium/tt0081505/img"
+  },
+  {
+    "id": "tt0073486",
+    "title": "One Flew Over the Cuckoo's Nest",
+    "industry": "Hollywood",
+    "genres": [
+      "Drama"
+    ],
+    "year": 1975,
+    "rating": 8.7,
+    "language": "English",
+    "duration": 133,
+    "director": "Milos Forman",
+    "cast": [
+      "Jack Nicholson",
+      "Louise Fletcher"
+    ],
+    "overview": "A rebellious inmate challenges the rigid authority of a psychiatric institution.",
+    "poster": "https://images.metahub.space/poster/medium/tt0073486/img"
+  },
+  {
+    "id": "tt0099685",
+    "title": "Goodfellas",
+    "industry": "Hollywood",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "year": 1990,
+    "rating": 8.7,
+    "language": "English",
+    "duration": 145,
+    "director": "Martin Scorsese",
+    "cast": [
+      "Robert De Niro",
+      "Ray Liotta"
+    ],
+    "overview": "A young man rises through the ranks of a New York crime family and witnesses its violent collapse.",
+    "poster": "https://images.metahub.space/poster/medium/tt0099685/img"
+  },
+  {
+    "id": "tt0114814",
+    "title": "The Usual Suspects",
+    "industry": "Hollywood",
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "year": 1995,
+    "rating": 8.5,
+    "language": "English",
+    "duration": 106,
+    "director": "Bryan Singer",
+    "cast": [
+      "Kevin Spacey",
+      "Gabriel Byrne"
+    ],
+    "overview": "A survivor recounts a mysterious chain of events involving a legendary criminal mastermind.",
+    "poster": "https://images.metahub.space/poster/medium/tt0114814/img"
+  },
+  {
+    "id": "tt0120689",
+    "title": "Green Mile",
+    "industry": "Hollywood",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Fantasy"
+    ],
+    "year": 1999,
+    "rating": 8.6,
+    "language": "English",
+    "duration": 189,
+    "director": "Frank Darabont",
+    "cast": [
+      "Tom Hanks",
+      "Michael Clarke Duncan"
+    ],
+    "overview": "A prison guard develops an extraordinary bond with a gentle inmate awaiting execution.",
+    "poster": "https://images.metahub.space/poster/medium/tt0120689/img"
+  },
+  {
+    "id": "tt0167404",
+    "title": "The Sixth Sense",
+    "industry": "Hollywood",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "year": 1999,
+    "rating": 8.2,
+    "language": "English",
+    "duration": 107,
+    "director": "M. Night Shyamalan",
+    "cast": [
+      "Bruce Willis",
+      "Haley Joel Osment"
+    ],
+    "overview": "A child psychologist tries to help a boy who claims he can see the dead.",
+    "poster": "https://images.metahub.space/poster/medium/tt0167404/img"
+  },
+  {
+    "id": "tt0118799",
+    "title": "Life Is Beautiful",
+    "industry": "Hollywood",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "year": 1997,
+    "rating": 8.6,
+    "language": "Italian",
+    "duration": 116,
+    "director": "Roberto Benigni",
+    "cast": [
+      "Roberto Benigni",
+      "Nicoletta Braschi"
+    ],
+    "overview": "A father uses imagination and humor to shield his son from the horrors of a concentration camp.",
+    "poster": "https://images.metahub.space/poster/medium/tt0118799/img"
+  },
+  {
+    "id": "tt0253474",
+    "title": "The Pianist",
+    "industry": "Hollywood",
+    "genres": [
+      "Biography",
+      "Drama",
+      "War"
+    ],
+    "year": 2002,
+    "rating": 8.5,
+    "language": "English",
+    "duration": "150",
+    "director": "Roman Polanski",
+    "cast": [
+      "Adrien Brody",
+      "Thomas Kretschmann"
+    ],
+    "overview": "A Polish Jewish musician struggles to survive the destruction of Warsaw during World War II.",
+    "poster": "https://images.metahub.space/poster/medium/tt0253474/img"
+  },
+  {
+    "id": "tt0407887",
+    "title": "The Departed",
+    "industry": "Hollywood",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "year": 2006,
+    "rating": 8.5,
+    "language": "English",
+    "duration": 151,
+    "director": "Martin Scorsese",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Matt Damon"
+    ],
+    "overview": "An undercover cop and a mole inside the police race to expose one another.",
+    "poster": "https://images.metahub.space/poster/medium/tt0407887/img"
+  },
+  {
+    "id": "tt0110413",
+    "title": "Léon: The Professional",
+    "industry": "Hollywood",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "year": 1994,
+    "rating": 8.5,
+    "language": "English",
+    "duration": 110,
+    "director": "Luc Besson",
+    "cast": [
+      "Jean Reno",
+      "Natalie Portman"
+    ],
+    "overview": "A professional hitman reluctantly becomes the protector and mentor of a young girl.",
+    "poster": "https://images.metahub.space/poster/medium/tt0110413/img"
+  },
+  {
+    "id": "tt0180093",
+    "title": "Requiem for a Dream",
+    "industry": "Hollywood",
+    "genres": [
+      "Drama"
+    ],
+    "year": 2000,
+    "rating": 8.3,
+    "language": "English",
+    "duration": 102,
+    "director": "Darren Aronofsky",
+    "cast": [
+      "Ellen Burstyn",
+      "Jared Leto"
+    ],
+    "overview": "Four lives unravel as their ambitions and addictions spiral out of control.",
+    "poster": "https://images.metahub.space/poster/medium/tt0180093/img"
+  },
+  {
+    "id": "tt0172495",
+    "title": "Gladiator",
+    "industry": "Hollywood",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "year": 2000,
+    "rating": 8.5,
+    "language": "English",
+    "duration": 155,
+    "director": "Ridley Scott",
+    "cast": [
+      "Russell Crowe",
+      "Joaquin Phoenix"
+    ],
+    "overview": "A betrayed Roman general becomes a gladiator and seeks revenge.",
+    "poster": "https://images.metahub.space/poster/medium/tt0172495/img"
+  },
+  {
+    "id": "tt0209144",
+    "title": "Memento",
+    "industry": "Hollywood",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "year": 2000,
+    "rating": 8.4,
+    "language": "English",
+    "duration": 113,
+    "director": "Christopher Nolan",
+    "cast": [
+      "Guy Pearce",
+      "Carrie-Anne Moss"
+    ],
+    "overview": "A man with short-term memory loss uses notes and tattoos to track his wife's killer.",
+    "poster": "https://images.metahub.space/poster/medium/tt0209144/img"
+  },
+  {
+    "id": "tt1853728",
+    "title": "Django Unchained",
+    "industry": "Hollywood",
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "year": 2012,
+    "rating": 8.5,
+    "language": "English",
+    "duration": 165,
+    "director": "Quentin Tarantino",
+    "cast": [
+      "Jamie Foxx",
+      "Christoph Waltz"
+    ],
+    "overview": "A freed slave becomes a bounty hunter and sets out to rescue his wife.",
+    "poster": "https://images.metahub.space/poster/medium/tt1853728/img"
+  },
+  {
+    "id": "tt0364569",
+    "title": "Oldboy",
+    "industry": "Hollywood",
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ],
+    "year": 2003,
+    "rating": 8.3,
+    "language": "Korean",
+    "duration": 120,
+    "director": "Park Chan-wook",
+    "cast": [
+      "Choi Min-sik",
+      "Yoo Ji-tae"
+    ],
+    "overview": "A man imprisoned for years without explanation is released and seeks answers and revenge.",
+    "poster": "https://images.metahub.space/poster/medium/tt0364569/img"
+  },
+  {
+    "id": "tt0095327",
+    "title": "Grave of the Fireflies",
+    "industry": "Hollywood",
+    "genres": [
+      "Animation",
+      "Drama",
+      "War"
+    ],
+    "year": 1988,
+    "rating": 8.5,
+    "language": "Japanese",
+    "duration": 89,
+    "director": "Isao Takahata",
+    "cast": [
+      "Tsutomu Tatsumi",
+      "Ayano Shiraishi"
+    ],
+    "overview": "Two siblings struggle to survive in Japan during the final months of World War II.",
+    "poster": "https://images.metahub.space/poster/medium/tt0095327/img"
+  },
+  {
+    "id": "tt0087843",
+    "title": "Once Upon a Time in America",
+    "industry": "Hollywood",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "year": 1984,
+    "rating": 8.3,
+    "language": "English",
+    "duration": 229,
+    "director": "Sergio Leone",
+    "cast": [
+      "Robert De Niro",
+      "James Woods"
+    ],
+    "overview": "An aging gangster reflects on friendship, betrayal and his past.",
+    "poster": "https://images.metahub.space/poster/medium/tt0087843/img"
+  },
+  {
+    "id": "tt0050083",
+    "title": "12 Angry Men",
+    "industry": "Hollywood",
+    "genres": [
+      "Drama"
+    ],
+    "year": 1957,
+    "rating": 9.0,
+    "language": "English",
+    "duration": 96,
+    "director": "Sidney Lumet",
+    "cast": [
+      "Henry Fonda",
+      "Lee J. Cobb"
+    ],
+    "overview": "A juror tries to convince the others that a murder case deserves careful examination.",
+    "poster": "https://images.metahub.space/poster/medium/tt0050083/img"
+  },
+  {
+    "id": "tt0034583",
+    "title": "Casablanca",
+    "industry": "Hollywood",
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "year": 1942,
+    "rating": 8.5,
+    "language": "English",
+    "duration": 102,
+    "director": "Michael Curtiz",
+    "cast": [
+      "Humphrey Bogart",
+      "Ingrid Bergman"
+    ],
+    "overview": "A nightclub owner in wartime Casablanca is forced to confront a former love.",
+    "poster": "https://images.metahub.space/poster/medium/tt0034583/img"
+  },
+  {
+    "id": "tt0054215",
+    "title": "Psycho",
+    "industry": "Hollywood",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "year": 1960,
+    "rating": 8.5,
+    "language": "English",
+    "duration": 109,
+    "director": "Alfred Hitchcock",
+    "cast": [
+      "Anthony Perkins",
+      "Janet Leigh"
+    ],
+    "overview": "A woman disappears after checking into an isolated motel run by a troubled proprietor.",
+    "poster": "https://images.metahub.space/poster/medium/tt0054215/img"
+  },
+  {
+    "id": "tt0047478",
+    "title": "Seven Samurai",
+    "industry": "Hollywood",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "year": 1954,
+    "rating": 8.6,
+    "language": "Japanese",
+    "duration": 207,
+    "director": "Akira Kurosawa",
+    "cast": [
+      "Toshirô Mifune",
+      "Takashi Shimura"
+    ],
+    "overview": "A village hires samurai to defend it from bandits.",
+    "poster": "https://images.metahub.space/poster/medium/tt0047478/img"
+  },
+  {
+    "id": "tt0057012",
+    "title": "Dr. Strangelove",
+    "industry": "Hollywood",
+    "genres": [
+      "Comedy",
+      "War"
+    ],
+    "year": 1964,
+    "rating": 8.4,
+    "language": "English",
+    "duration": 95,
+    "director": "Stanley Kubrick",
+    "cast": [
+      "Peter Sellers",
+      "George C. Scott"
+    ],
+    "overview": "A military crisis threatens nuclear catastrophe through absurd chains of command.",
+    "poster": "https://images.metahub.space/poster/medium/tt0057012/img"
+  },
+  {
+    "id": "tt0089881",
+    "title": "Ran",
+    "industry": "Hollywood",
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "year": 1985,
+    "rating": 8.2,
+    "language": "Japanese",
+    "duration": 162,
+    "director": "Akira Kurosawa",
+    "cast": [
+      "Tatsuya Nakadai",
+      "Akira Terao"
+    ],
+    "overview": "An aging warlord divides his kingdom among his sons, triggering betrayal and conflict.",
+    "poster": "https://images.metahub.space/poster/medium/tt0089881/img"
+  },
+  {
+    "id": "tt0078748",
+    "title": "Alien",
+    "industry": "Hollywood",
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "year": 1979,
+    "rating": 8.5,
+    "language": "English",
+    "duration": 117,
+    "director": "Ridley Scott",
+    "cast": [
+      "Sigourney Weaver",
+      "Tom Skerritt"
+    ],
+    "overview": "A spaceship crew encounters a lethal extraterrestrial creature.",
+    "poster": "https://images.metahub.space/poster/medium/tt0078748/img"
+  },
+  {
+    "id": "tt0062622",
+    "title": "2001: A Space Odyssey",
+    "industry": "Hollywood",
+    "genres": [
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "year": 1968,
+    "rating": 8.3,
+    "language": "English",
+    "duration": 149,
+    "director": "Stanley Kubrick",
+    "cast": [
+      "Keir Dullea",
+      "Gary Lockwood"
+    ],
+    "overview": "A mysterious object leads humanity toward a profound encounter in space.",
+    "poster": "https://images.metahub.space/poster/medium/tt0062622/img"
+  },
+  {
+    "id": "tt0086250",
+    "title": "Scarface",
+    "industry": "Hollywood",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "year": 1983,
+    "rating": 8.3,
+    "language": "English",
+    "duration": 170,
+    "director": "Brian De Palma",
+    "cast": [
+      "Al Pacino",
+      "Michelle Pfeiffer"
+    ],
+    "overview": "A Cuban immigrant rises through Miami's drug trade and becomes consumed by power.",
+    "poster": "https://images.metahub.space/poster/medium/tt0086250/img"
+  },
+  {
+    "id": "tt0090605",
+    "title": "Aliens",
+    "industry": "Hollywood",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "year": 1986,
+    "rating": 8.4,
+    "language": "English",
+    "duration": 137,
+    "director": "James Cameron",
+    "cast": [
+      "Sigourney Weaver",
+      "Michael Biehn"
+    ],
+    "overview": "Ripley returns to the planet where the crew first encountered the alien species.",
+    "poster": "https://images.metahub.space/poster/medium/tt0090605/img"
+  },
+  {
+    "id": "tt0107290",
+    "title": "Jurassic Park",
+    "industry": "Hollywood",
+    "genres": [
+      "Adventure",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "year": 1993,
+    "rating": 8.2,
+    "language": "English",
+    "duration": 127,
+    "director": "Steven Spielberg",
+    "cast": [
+      "Sam Neill",
+      "Laura Dern"
+    ],
+    "overview": "A dinosaur theme park suffers a catastrophic security failure.",
+    "poster": "https://images.metahub.space/poster/medium/tt0107290/img"
+  },
+  {
+    "id": "tt0120338",
+    "title": "Titanic",
+    "industry": "Hollywood",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "year": 1997,
+    "rating": 7.9,
+    "language": "English",
+    "duration": 194,
+    "director": "James Cameron",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Kate Winslet"
+    ],
+    "overview": "A young couple from different social classes meet aboard the ill-fated Titanic.",
+    "poster": "https://images.metahub.space/poster/medium/tt0120338/img"
+  },
+  {
+    "id": "tt0110357",
+    "title": "The Lion King",
+    "industry": "Hollywood",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "year": 1994,
+    "rating": 8.5,
+    "language": "English",
+    "duration": 88,
+    "director": "Roger Allers, Rob Minkoff",
+    "cast": [
+      "Matthew Broderick",
+      "Jeremy Irons"
+    ],
+    "overview": "A young lion prince must reclaim his kingdom after tragedy.",
+    "poster": "https://images.metahub.space/poster/medium/tt0110357/img"
+  },
+  {
+    "id": "tt0245429",
+    "title": "Spirited Away",
+    "industry": "Hollywood",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "year": 2001,
+    "rating": 8.6,
+    "language": "Japanese",
+    "duration": 125,
+    "director": "Hayao Miyazaki",
+    "cast": [
+      "Rumi Hiiragi",
+      "Miyu Irino"
+    ],
+    "overview": "A young girl enters a mysterious spirit world and must find a way to save her parents.",
+    "poster": "https://images.metahub.space/poster/medium/tt0245429/img"
+  },
+  {
+    "id": "tt0434409",
+    "title": "V for Vendetta",
+    "industry": "Hollywood",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "year": 2005,
+    "rating": 8.1,
+    "language": "English",
+    "duration": 132,
+    "director": "James McTeigue",
+    "cast": [
+      "Hugo Weaving",
+      "Natalie Portman"
+    ],
+    "overview": "A masked revolutionary inspires a young woman to challenge an oppressive regime.",
+    "poster": "https://images.metahub.space/poster/medium/tt0434409/img"
+  },
+  {
+    "id": "tt0105236",
+    "title": "Reservoir Dogs",
+    "industry": "Hollywood",
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "year": 1992,
+    "rating": 8.3,
+    "language": "English",
+    "duration": 99,
+    "director": "Quentin Tarantino",
+    "cast": [
+      "Harvey Keitel",
+      "Tim Roth"
+    ],
+    "overview": "A jewelry heist collapses when the surviving criminals suspect one another.",
+    "poster": "https://images.metahub.space/poster/medium/tt0105236/img"
+  },
+  {
+    "id": "tt0095016",
+    "title": "Die Hard",
+    "industry": "Hollywood",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "year": 1988,
+    "rating": 8.2,
+    "language": "English",
+    "duration": 132,
+    "director": "John McTiernan",
+    "cast": [
+      "Bruce Willis",
+      "Alan Rickman"
+    ],
+    "overview": "A New York police officer battles terrorists who seize a Los Angeles skyscraper.",
+    "poster": "https://images.metahub.space/poster/medium/tt0095016/img"
+  },
+  {
+    "id": "tt0112573",
+    "title": "Braveheart",
+    "industry": "Hollywood",
+    "genres": [
+      "Biography",
+      "Drama",
+      "War"
+    ],
+    "year": 1995,
+    "rating": 8.3,
+    "language": "English",
+    "duration": 178,
+    "director": "Mel Gibson",
+    "cast": [
+      "Mel Gibson",
+      "Sophie Marceau"
+    ],
+    "overview": "A Scottish warrior leads a rebellion against English rule.",
+    "poster": "https://images.metahub.space/poster/medium/tt0112573/img"
+  },
+  {
+    "id": "tt0120586",
+    "title": "American History X",
+    "industry": "Hollywood",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "year": 1998,
+    "rating": 8.5,
+    "language": "English",
+    "duration": 119,
+    "director": "Tony Kaye",
+    "cast": [
+      "Edward Norton",
+      "Edward Furlong"
+    ],
+    "overview": "A former neo-Nazi tries to prevent his younger brother from following the same path.",
+    "poster": "https://images.metahub.space/poster/medium/tt0120586/img"
+  },
+  {
+    "id": "tt0106179",
+    "title": "Gangs of New York",
+    "industry": "Hollywood",
+    "genres": [
+      "Crime",
+      "Drama",
+      "History"
+    ],
+    "year": 2002,
+    "rating": 7.5,
+    "language": "English",
+    "duration": 167,
+    "director": "Martin Scorsese",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Daniel Day-Lewis"
+    ],
+    "overview": "A young man seeks revenge amid violent rivalries in nineteenth-century New York.",
+    "poster": "https://images.metahub.space/poster/medium/tt0106179/img"
+  },
+  {
+    "id": "tt0084787",
+    "title": "The Thing",
+    "industry": "Hollywood",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "year": 1982,
+    "rating": 8.2,
+    "language": "English",
+    "duration": 109,
+    "director": "John Carpenter",
+    "cast": [
+      "Kurt Russell",
+      "Wilford Brimley"
+    ],
+    "overview": "Researchers in Antarctica face an alien organism that can imitate living beings.",
+    "poster": "https://images.metahub.space/poster/medium/tt0084787/img"
+  },
+  {
+    "id": "tt0116282",
+    "title": "Fargo",
+    "industry": "Hollywood",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "year": 1996,
+    "rating": 8.1,
+    "language": "English",
+    "duration": 98,
+    "director": "Joel Coen, Ethan Coen",
+    "cast": [
+      "Frances McDormand",
+      "William H. Macy"
+    ],
+    "overview": "A botched kidnapping leads a determined detective into a chain of murders.",
+    "poster": "https://images.metahub.space/poster/medium/tt0116282/img"
+  },
+  {
+    "id": "tt0119488",
+    "title": "L.A. Confidential",
+    "industry": "Hollywood",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "year": 1997,
+    "rating": 8.2,
+    "language": "English",
+    "duration": 138,
+    "director": "Curtis Hanson",
+    "cast": [
+      "Kevin Spacey",
+      "Russell Crowe"
+    ],
+    "overview": "Three very different Los Angeles detectives investigate corruption and murder.",
+    "poster": "https://images.metahub.space/poster/medium/tt0119488/img"
+  },
+  {
+    "id": "tt0107048",
+    "title": "Groundhog Day",
+    "industry": "Hollywood",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "year": 1993,
+    "rating": 8.0,
+    "language": "English",
+    "duration": 101,
+    "director": "Harold Ramis",
+    "cast": [
+      "Bill Murray",
+      "Andie MacDowell"
+    ],
+    "overview": "A cynical weatherman repeatedly lives the same day and gradually changes his outlook.",
+    "poster": "https://images.metahub.space/poster/medium/tt0107048/img"
+  },
+  {
+    "id": "tt0198781",
+    "title": "Monsters, Inc.",
+    "industry": "Hollywood",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "year": 2001,
+    "rating": 8.1,
+    "language": "English",
+    "duration": 92,
+    "director": "Pete Docter",
+    "cast": [
+      "John Goodman",
+      "Billy Crystal"
+    ],
+    "overview": "Two monster employees discover that a human child is not as dangerous as they believed.",
+    "poster": "https://images.metahub.space/poster/medium/tt0198781/img"
+  },
+  {
+    "id": "tt0317248",
+    "title": "City of God",
+    "industry": "Hollywood",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "year": 2002,
+    "rating": 8.6,
+    "language": "Portuguese",
+    "duration": 130,
+    "director": "Fernando Meirelles, Kátia Lund",
+    "cast": [
+      "Alexandre Rodrigues",
+      "Leandro Firmino"
+    ],
+    "overview": "Two boys follow very different paths amid the rise of organized crime in Rio de Janeiro.",
+    "poster": "https://images.metahub.space/poster/medium/tt0317248/img"
+  },
+  {
+    "id": "tt0119698",
+    "title": "Princess Mononoke",
+    "industry": "Hollywood",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Fantasy"
+    ],
+    "year": 1997,
+    "rating": 8.3,
+    "language": "Japanese",
+    "duration": 133,
+    "director": "Hayao Miyazaki",
+    "cast": [
+      "Yôji Matsuda",
+      "Yuriko Ishida"
+    ],
+    "overview": "A young warrior becomes caught between industrial expansion and a forest's supernatural guardians.",
+    "poster": "https://images.metahub.space/poster/medium/tt0119698/img"
+  },
+  {
+    "id": "tt0081398",
+    "title": "Raging Bull",
+    "industry": "Hollywood",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "year": 1980,
+    "rating": 8.1,
+    "language": "English",
+    "duration": 129,
+    "director": "Martin Scorsese",
+    "cast": [
+      "Robert De Niro",
+      "Joe Pesci"
+    ],
+    "overview": "A talented boxer struggles with jealousy, violence and self-destruction.",
+    "poster": "https://images.metahub.space/poster/medium/tt0081398/img"
+  },
+  {
+    "id": "tt0064115",
+    "title": "Butch Cassidy and the Sundance Kid",
+    "industry": "Hollywood",
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama",
+      "Western"
+    ],
+    "year": 1969,
+    "rating": 8.0,
+    "language": "English",
+    "duration": 110,
+    "director": "George Roy Hill",
+    "cast": [
+      "Paul Newman",
+      "Robert Redford"
+    ],
+    "overview": "Two charismatic outlaws flee across the American West as their era comes to an end.",
+    "poster": "https://images.metahub.space/poster/medium/tt0064115/img"
+  },
+  {
+    "id": "tt0075314",
+    "title": "Taxi Driver",
+    "industry": "Hollywood",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "year": 1976,
+    "rating": 8.2,
+    "language": "English",
+    "duration": 114,
+    "director": "Martin Scorsese",
+    "cast": [
+      "Robert De Niro",
+      "Jodie Foster"
+    ],
+    "overview": "A lonely New York cab driver becomes increasingly obsessed with cleansing the city.",
+    "poster": "https://images.metahub.space/poster/medium/tt0075314/img"
+  },
+  {
+    "id": "tt0047396",
+    "title": "Rear Window",
+    "industry": "Hollywood",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "year": 1954,
+    "rating": 8.5,
+    "language": "English",
+    "duration": 112,
+    "director": "Alfred Hitchcock",
+    "cast": [
+      "James Stewart",
+      "Grace Kelly"
+    ],
+    "overview": "A photographer confined to his apartment suspects a neighbor has committed murder.",
+    "poster": "https://images.metahub.space/poster/medium/tt0047396/img"
+  },
+  {
+    "id": "tt0052357",
+    "title": "Vertigo",
+    "industry": "Hollywood",
+    "genres": [
+      "Mystery",
+      "Romance",
+      "Thriller"
+    ],
+    "year": 1958,
+    "rating": 8.3,
+    "language": "English",
+    "duration": 128,
+    "director": "Alfred Hitchcock",
+    "cast": [
+      "James Stewart",
+      "Kim Novak"
+    ],
+    "overview": "A retired detective becomes obsessed with a woman who resembles someone from his past.",
+    "poster": "https://images.metahub.space/poster/medium/tt0052357/img"
+  },
+  {
+    "id": "tt0053125",
+    "title": "North by Northwest",
+    "industry": "Hollywood",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery"
+    ],
+    "year": 1959,
+    "rating": 8.3,
+    "language": "English",
+    "duration": 136,
+    "director": "Alfred Hitchcock",
+    "cast": [
+      "Cary Grant",
+      "Eva Marie Saint"
+    ],
+    "overview": "An advertising executive is mistaken for a government agent and pursued across the country.",
+    "poster": "https://images.metahub.space/poster/medium/tt0053125/img"
+  },
+  {
+    "id": "tt0086879",
+    "title": "Amadeus",
+    "industry": "Hollywood",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "year": 1984,
+    "rating": 8.4,
+    "language": "English",
+    "duration": 160,
+    "director": "Miloš Forman",
+    "cast": [
+      "F. Murray Abraham",
+      "Tom Hulce"
+    ],
+    "overview": "A court composer reflects on his rivalry with the brilliant Wolfgang Amadeus Mozart.",
+    "poster": "https://images.metahub.space/poster/medium/tt0086879/img"
+  },
+  {
+    "id": "tt0103639",
+    "title": "Aladdin",
+    "industry": "Hollywood",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "year": 1992,
+    "rating": 8.0,
+    "language": "English",
+    "duration": 90,
+    "director": "Ron Clements, John Musker",
+    "cast": [
+      "Scott Weinger",
+      "Robin Williams"
+    ],
+    "overview": "A street thief discovers a magic lamp and a genie who can grant wishes.",
+    "poster": "https://images.metahub.space/poster/medium/tt0103639/img"
+  },
+  {
+    "id": "tt0169547",
+    "title": "American Beauty",
+    "industry": "Hollywood",
+    "genres": [
+      "Drama"
+    ],
+    "year": 1999,
+    "rating": 8.3,
+    "language": "English",
+    "duration": 122,
+    "director": "Sam Mendes",
+    "cast": [
+      "Kevin Spacey",
+      "Annette Bening"
+    ],
+    "overview": "A dissatisfied suburban father experiences a dramatic personal awakening.",
+    "poster": "https://images.metahub.space/poster/medium/tt0169547/img"
+  },
+  {
+    "id": "tt0073195",
+    "title": "Jaws",
+    "industry": "Hollywood",
+    "genres": [
+      "Adventure",
+      "Thriller"
+    ],
+    "year": 1975,
+    "rating": 8.1,
+    "language": "English",
+    "duration": 124,
+    "director": "Steven Spielberg",
+    "cast": [
+      "Roy Scheider",
+      "Robert Shaw"
+    ],
+    "overview": "A police chief, scientist and fisherman hunt a great white shark terrorizing a beach town.",
+    "poster": "https://images.metahub.space/poster/medium/tt0073195/img"
+  },
+  {
+    "id": "tt0082971",
+    "title": "Raiders of the Lost Ark",
+    "industry": "Hollywood",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "year": 1981,
+    "rating": 8.4,
+    "language": "English",
+    "duration": 115,
+    "director": "Steven Spielberg",
+    "cast": [
+      "Harrison Ford",
+      "Karen Allen"
+    ],
+    "overview": "An archaeologist races to find a legendary artifact before the Nazis.",
+    "poster": "https://images.metahub.space/poster/medium/tt0082971/img"
+  },
+  {
+    "id": "tt0088247",
+    "title": "The Princess Bride",
+    "industry": "Hollywood",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "year": 1987,
+    "rating": 8.0,
+    "language": "English",
+    "duration": 98,
+    "director": "Rob Reiner",
+    "cast": [
+      "Cary Elwes",
+      "Robin Wright"
+    ],
+    "overview": "A classic fairy tale blends swordplay, adventure and true love.",
+    "poster": "https://images.metahub.space/poster/medium/tt0088247/img"
+  },
+  {
+    "id": "tt0078788",
+    "title": "Apocalypse Now",
+    "industry": "Hollywood",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "War"
+    ],
+    "year": 1979,
+    "rating": 8.4,
+    "language": "English",
+    "duration": 147,
+    "director": "Francis Ford Coppola",
+    "cast": [
+      "Martin Sheen",
+      "Marlon Brando"
+    ],
+    "overview": "A soldier travels upriver during the Vietnam War to confront a renegade colonel.",
+    "poster": "https://images.metahub.space/poster/medium/tt0078788/img"
+  },
+  {
+    "id": "tt0113277",
+    "title": "Heat",
+    "industry": "Hollywood",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "year": 1995,
+    "rating": 8.3,
+    "language": "English",
+    "duration": 170,
+    "director": "Michael Mann",
+    "cast": [
+      "Al Pacino",
+      "Robert De Niro"
+    ],
+    "overview": "A driven detective pursues a professional thief planning one last major heist.",
+    "poster": "https://images.metahub.space/poster/medium/tt0113277/img"
+  },
+  {
+    "id": "tt0097165",
+    "title": "Dead Poets Society",
+    "industry": "Hollywood",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "year": 1989,
+    "rating": 8.1,
+    "language": "English",
+    "duration": 128,
+    "director": "Peter Weir",
+    "cast": [
+      "Robin Williams",
+      "Ethan Hawke"
+    ],
+    "overview": "An unconventional teacher inspires students to question convention and embrace life.",
+    "poster": "https://images.metahub.space/poster/medium/tt0097165/img"
+  },
+  {
+    "id": "tt0104431",
+    "title": "A Few Good Men",
+    "industry": "Hollywood",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "year": 1992,
+    "rating": 7.7,
+    "language": "English",
+    "duration": 138,
+    "director": "Rob Reiner",
+    "cast": [
+      "Tom Cruise",
+      "Jack Nicholson"
+    ],
+    "overview": "Military lawyers defend two Marines accused of killing a fellow soldier.",
+    "poster": "https://images.metahub.space/poster/medium/tt0104431/img"
+  },
+  {
+    "id": "tt0112471",
+    "title": "Before Sunrise",
+    "industry": "Hollywood",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "year": 1995,
+    "rating": 8.1,
+    "language": "English",
+    "duration": 101,
+    "director": "Richard Linklater",
+    "cast": [
+      "Ethan Hawke",
+      "Julie Delpy"
+    ],
+    "overview": "Two strangers meet on a train and spend one night walking through Vienna together.",
+    "poster": "https://images.metahub.space/poster/medium/tt0112471/img"
+  },
+  {
+    "id": "tt0102138",
+    "title": "Unforgiven",
+    "industry": "Hollywood",
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "year": 1992,
+    "rating": 8.2,
+    "language": "English",
+    "duration": 130,
+    "director": "Clint Eastwood",
+    "cast": [
+      "Clint Eastwood",
+      "Gene Hackman"
+    ],
+    "overview": "A retired outlaw returns for one final act of violence.",
+    "poster": "https://images.metahub.space/poster/medium/tt0102138/img"
+  },
+  {
+    "id": "tt0055031",
+    "title": "Judgment at Nuremberg",
+    "industry": "Hollywood",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "year": 1961,
+    "rating": 8.3,
+    "language": "English",
+    "duration": 179,
+    "director": "Stanley Kramer",
+    "cast": [
+      "Spencer Tracy",
+      "Burt Lancaster"
+    ],
+    "overview": "A tribunal examines responsibility for crimes committed under Nazi rule.",
+    "poster": "https://images.metahub.space/poster/medium/tt0055031/img"
+  },
+  {
+    "id": "tt0082096",
+    "title": "Das Boot",
+    "industry": "Hollywood",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "year": 1981,
+    "rating": 8.3,
+    "language": "German",
+    "duration": 149,
+    "director": "Wolfgang Petersen",
+    "cast": [
+      "Jürgen Prochnow",
+      "Herbert Grönemeyer"
+    ],
+    "overview": "A German submarine crew endures the claustrophobic realities of wartime patrol.",
+    "poster": "https://images.metahub.space/poster/medium/tt0082096/img"
+  },
+  {
+    "id": "tt0083658",
+    "title": "Blade Runner",
+    "industry": "Hollywood",
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "year": 1982,
+    "rating": 8.1,
+    "language": "English",
+    "duration": 117,
+    "director": "Ridley Scott",
+    "cast": [
+      "Harrison Ford",
+      "Rutger Hauer"
+    ],
+    "overview": "A detective hunts bioengineered beings seeking freedom in a dystopian future.",
+    "poster": "https://images.metahub.space/poster/medium/tt0083658/img"
+  },
+  {
+    "id": "tt0166896",
+    "title": "The Green Mile",
+    "industry": "Hollywood",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Fantasy"
+    ],
+    "year": 1999,
+    "rating": 8.6,
+    "language": "English",
+    "duration": 189,
+    "director": "Frank Darabont",
+    "cast": [
+      "Tom Hanks",
+      "Michael Clarke Duncan"
+    ],
+    "overview": "A prison guard encounters a gentle inmate with a mysterious gift.",
+    "poster": "https://images.metahub.space/poster/medium/tt0166896/img"
+  },
+  {
+    "id": "tt0338013",
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "industry": "Hollywood",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "year": 2004,
+    "rating": 8.3,
+    "language": "English",
+    "duration": 108,
+    "director": "Michel Gondry",
+    "cast": [
+      "Jim Carrey",
+      "Kate Winslet"
+    ],
+    "overview": "A couple undergoes a procedure to erase memories of their relationship.",
+    "poster": "https://images.metahub.space/poster/medium/tt0338013/img"
+  },
+  {
+    "id": "tt0469494",
+    "title": "There Will Be Blood",
+    "industry": "Hollywood",
+    "genres": [
+      "Drama"
+    ],
+    "year": 2007,
+    "rating": 8.2,
+    "language": "English",
+    "duration": 158,
+    "director": "Paul Thomas Anderson",
+    "cast": [
+      "Daniel Day-Lewis",
+      "Paul Dano"
+    ],
+    "overview": "An ambitious oil prospector builds an empire while his personal life deteriorates.",
+    "poster": "https://images.metahub.space/poster/medium/tt0469494/img"
+  },
+  {
+    "id": "tt1130884",
+    "title": "Shutter Island",
+    "industry": "Hollywood",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "year": 2010,
+    "rating": 8.2,
+    "language": "English",
+    "duration": 138,
+    "director": "Martin Scorsese",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Mark Ruffalo"
+    ],
+    "overview": "A marshal investigates the disappearance of a patient from an isolated institution.",
+    "poster": "https://images.metahub.space/poster/medium/tt1130884/img"
+  },
+  {
+    "id": "tt0993846",
+    "title": "The Wolf of Wall Street",
+    "industry": "Hollywood",
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "year": 2013,
+    "rating": 8.2,
+    "language": "English",
+    "duration": 180,
+    "director": "Martin Scorsese",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Jonah Hill"
+    ],
+    "overview": "A stockbroker rises through fraud and excess before his empire collapses.",
+    "poster": "https://images.metahub.space/poster/medium/tt0993846/img"
+  },
+  {
+    "id": "tt2582802",
+    "title": "Whiplash",
+    "industry": "Hollywood",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "year": 2014,
+    "rating": 8.5,
+    "language": "English",
+    "duration": 106,
+    "director": "Damien Chazelle",
+    "cast": [
+      "Miles Teller",
+      "J.K. Simmons"
+    ],
+    "overview": "An ambitious drummer enters a punishing relationship with an exacting music teacher.",
+    "poster": "https://images.metahub.space/poster/medium/tt2582802/img"
+  },
+  {
+    "id": "tt4154796",
+    "title": "Avengers: Endgame",
+    "industry": "Hollywood",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "year": 2019,
+    "rating": 8.4,
+    "language": "English",
+    "duration": 181,
+    "director": "Anthony Russo, Joe Russo",
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Evans"
+    ],
+    "overview": "The remaining Avengers attempt to reverse the devastation caused by Thanos.",
+    "poster": "https://images.metahub.space/poster/medium/tt4154796/img"
+  },
+  {
+    "id": "tt4154756",
+    "title": "Avengers: Infinity War",
+    "industry": "Hollywood",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "year": 2018,
+    "rating": 8.4,
+    "language": "English",
+    "duration": 149,
+    "director": "Anthony Russo, Joe Russo",
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Hemsworth"
+    ],
+    "overview": "The Avengers and their allies confront Thanos as he seeks the Infinity Stones.",
+    "poster": "https://images.metahub.space/poster/medium/tt4154756/img"
+  },
+  {
+    "id": "tt0848228",
+    "title": "The Avengers",
+    "industry": "Hollywood",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "year": 2012,
+    "rating": 8.0,
+    "language": "English",
+    "duration": 143,
+    "director": "Joss Whedon",
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Evans"
+    ],
+    "overview": "Earth's heroes unite when an alien threat arrives.",
+    "poster": "https://images.metahub.space/poster/medium/tt0848228/img"
+  },
+  {
+    "id": "tt6751668",
+    "title": "Parasite",
+    "industry": "Hollywood",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "year": 2019,
+    "rating": 8.5,
+    "language": "Korean",
+    "duration": 132,
+    "director": "Bong Joon Ho",
+    "cast": [
+      "Song Kang-ho",
+      "Choi Woo-shik"
+    ],
+    "overview": "A struggling family gradually infiltrates the household of a wealthy family.",
+    "poster": "https://images.metahub.space/poster/medium/tt6751668/img"
+  },
+  {
+    "id": "tt7286456",
+    "title": "Joker",
+    "industry": "Hollywood",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "year": 2019,
+    "rating": 8.3,
+    "language": "English",
+    "duration": 122,
+    "director": "Todd Phillips",
+    "cast": [
+      "Joaquin Phoenix",
+      "Robert De Niro"
+    ],
+    "overview": "A marginalized comedian descends into a violent transformation in Gotham City.",
+    "poster": "https://images.metahub.space/poster/medium/tt7286456/img"
+  },
+  {
+    "id": "tt2380307",
+    "title": "Coco",
+    "industry": "Hollywood",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family",
+      "Fantasy",
+      "Music"
+    ],
+    "year": 2017,
+    "rating": 8.4,
+    "language": "English",
+    "duration": 105,
+    "director": "Lee Unkrich, Adrian Molina",
+    "cast": [
+      "Anthony Gonzalez",
+      "Gael García Bernal"
+    ],
+    "overview": "A young musician enters the Land of the Dead to discover his family's history.",
+    "poster": "https://images.metahub.space/poster/medium/tt2380307/img"
+  },
+  {
+    "id": "tt4633694",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "industry": "Hollywood",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "year": 2018,
+    "rating": 8.4,
+    "language": "English",
+    "duration": 117,
+    "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+    "cast": [
+      "Shameik Moore",
+      "Jake Johnson"
+    ],
+    "overview": "A teenager becomes one of several Spider-People defending reality from a multiverse threat.",
+    "poster": "https://images.metahub.space/poster/medium/tt4633694/img"
+  },
+  {
+    "id": "tt15239678",
+    "title": "Dune: Part Two",
+    "industry": "Hollywood",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "year": 2024,
+    "rating": 8.5,
+    "language": "English",
+    "duration": 166,
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Timothée Chalamet",
+      "Zendaya"
+    ],
+    "overview": "Paul Atreides unites with Chani and the Fremen while seeking revenge against House Harkonnen.",
+    "poster": "https://images.metahub.space/poster/medium/tt15239678/img"
+  },
+  {
+    "id": "tt1160419",
+    "title": "Dune",
+    "industry": "Hollywood",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "year": 2021,
+    "rating": 8.0,
+    "language": "English",
+    "duration": 155,
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Timothée Chalamet",
+      "Rebecca Ferguson"
+    ],
+    "overview": "A noble family's heir is drawn into a struggle for control of the desert planet Arrakis.",
+    "poster": "https://images.metahub.space/poster/medium/tt1160419/img"
+  },
+  {
+    "id": "tt15398776",
+    "title": "Oppenheimer",
+    "industry": "Hollywood",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "year": 2023,
+    "rating": 8.6,
+    "language": "English",
+    "duration": 180,
+    "director": "Christopher Nolan",
+    "cast": [
+      "Cillian Murphy",
+      "Emily Blunt"
+    ],
+    "overview": "A physicist leads the secret project that develops the first atomic bomb.",
+    "poster": "https://images.metahub.space/poster/medium/tt15398776/img"
+  },
+  {
+    "id": "tt6718170",
+    "title": "The Super Mario Bros. Movie",
+    "industry": "Hollywood",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "year": 2023,
+    "rating": 7.0,
+    "language": "English",
+    "duration": 92,
+    "director": "Aaron Horvath, Michael Jelenic",
+    "cast": [
+      "Chris Pratt",
+      "Anya Taylor-Joy"
+    ],
+    "overview": "Two brothers are transported to a colorful world and must rescue a kingdom.",
+    "poster": "https://images.metahub.space/poster/medium/tt6718170/img"
+  },
+  {
+    "id": "tt9362722",
+    "title": "Spider-Man: Across the Spider-Verse",
+    "industry": "Hollywood",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "year": 2023,
+    "rating": 8.6,
+    "language": "English",
+    "duration": 140,
+    "director": "Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",
+    "cast": [
+      "Shameik Moore",
+      "Hailee Steinfeld"
+    ],
+    "overview": "Miles Morales travels across the multiverse and encounters other Spider-People.",
+    "poster": "https://images.metahub.space/poster/medium/tt9362722/img"
+  },
+  {
+    "id": "tt1630029",
+    "title": "Avatar: The Way of Water",
+    "industry": "Hollywood",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "year": 2022,
+    "rating": 7.6,
+    "language": "English",
+    "duration": 192,
+    "director": "James Cameron",
+    "cast": [
+      "Sam Worthington",
+      "Zoe Saldana"
+    ],
+    "overview": "The Sully family seeks refuge among the ocean-dwelling Metkayina people.",
+    "poster": "https://images.metahub.space/poster/medium/tt1630029/img"
+  },
+  {
+    "id": "tt0499549",
+    "title": "Avatar",
+    "industry": "Hollywood",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "year": 2009,
+    "rating": 7.9,
+    "language": "English",
+    "duration": 162,
+    "director": "James Cameron",
+    "cast": [
+      "Sam Worthington",
+      "Zoe Saldana"
+    ],
+    "overview": "A former Marine joins a mission on Pandora and becomes caught between two worlds.",
+    "poster": "https://images.metahub.space/poster/medium/tt0499549/img"
+  },
+  {
+    "id": "tt0169102",
+    "title": "Lagaan: Once Upon a Time in India",
+    "industry": "Bollywood",
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "year": 2001,
+    "rating": 8.1,
+    "language": "Hindi",
+    "duration": 224,
+    "director": "Ashutosh Gowariker",
+    "cast": [
+      "Aamir Khan",
+      "Gracy Singh"
+    ],
+    "overview": "Villagers challenge a British officer to a cricket match to escape an oppressive tax.",
+    "poster": "https://images.metahub.space/poster/medium/tt0169102/img"
+  },
+  {
+    "id": "tt1187043",
+    "title": "3 Idiots",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "year": 2009,
+    "rating": 8.4,
+    "language": "Hindi",
+    "duration": 170,
+    "director": "Rajkumar Hirani",
+    "cast": [
+      "Aamir Khan",
+      "R. Madhavan"
+    ],
+    "overview": "Two friends search for their missing college companion and remember his unconventional approach to education.",
+    "poster": "https://images.metahub.space/poster/medium/tt1187043/img"
+  },
+  {
+    "id": "tt0986264",
+    "title": "Taare Zameen Par",
+    "industry": "Bollywood",
+    "genres": [
+      "Drama"
+    ],
+    "year": 2007,
+    "rating": 8.3,
+    "language": "Hindi",
+    "duration": 165,
+    "director": "Aamir Khan",
+    "cast": [
+      "Darsheel Safary",
+      "Aamir Khan"
+    ],
+    "overview": "An art teacher discovers the learning difficulty behind a child's struggles at school.",
+    "poster": "https://images.metahub.space/poster/medium/tt0986264/img"
+  },
+  {
+    "id": "tt2338151",
+    "title": "PK",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "year": 2014,
+    "rating": 8.1,
+    "language": "Hindi",
+    "duration": 153,
+    "director": "Rajkumar Hirani",
+    "cast": [
+      "Aamir Khan",
+      "Anushka Sharma"
+    ],
+    "overview": "An innocent alien stranded on Earth questions social customs while searching for a way home.",
+    "poster": "https://images.metahub.space/poster/medium/tt2338151/img"
+  },
+  {
+    "id": "tt5074352",
+    "title": "Dangal",
+    "industry": "Bollywood",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "year": 2016,
+    "rating": 8.3,
+    "language": "Hindi",
+    "duration": 161,
+    "director": "Nitesh Tiwari",
+    "cast": [
+      "Aamir Khan",
+      "Fatima Sana Shaikh"
+    ],
+    "overview": "A former wrestler trains his daughters to compete in wrestling.",
+    "poster": "https://images.metahub.space/poster/medium/tt5074352/img"
+  },
+  {
+    "id": "tt1562872",
+    "title": "Zindagi Na Milegi Dobara",
+    "industry": "Bollywood",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "year": 2011,
+    "rating": 8.2,
+    "language": "Hindi",
+    "duration": 155,
+    "director": "Zoya Akhtar",
+    "cast": [
+      "Hrithik Roshan",
+      "Farhan Akhtar"
+    ],
+    "overview": "Three friends take a road trip through Spain that changes their relationships and priorities.",
+    "poster": "https://images.metahub.space/poster/medium/tt1562872/img"
+  },
+  {
+    "id": "tt0405508",
+    "title": "Rang De Basanti",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "year": 2006,
+    "rating": 8.1,
+    "language": "Hindi",
+    "duration": 157,
+    "director": "Rakeysh Omprakash Mehra",
+    "cast": [
+      "Aamir Khan",
+      "Siddharth"
+    ],
+    "overview": "A group of friends making a film about revolutionaries become politically awakened.",
+    "poster": "https://images.metahub.space/poster/medium/tt0405508/img"
+  },
+  {
+    "id": "tt0292490",
+    "title": "Dil Chahta Hai",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "year": 2001,
+    "rating": 8.1,
+    "language": "Hindi",
+    "duration": 183,
+    "director": "Farhan Akhtar",
+    "cast": [
+      "Aamir Khan",
+      "Akshaye Khanna"
+    ],
+    "overview": "Three close friends navigate love, adulthood and changing relationships.",
+    "poster": "https://images.metahub.space/poster/medium/tt0292490/img"
+  },
+  {
+    "id": "tt0367110",
+    "title": "Swades",
+    "industry": "Bollywood",
+    "genres": [
+      "Drama"
+    ],
+    "year": 2004,
+    "rating": 8.2,
+    "language": "Hindi",
+    "duration": 189,
+    "director": "Ashutosh Gowariker",
+    "cast": [
+      "Shah Rukh Khan",
+      "Gayatri Joshi"
+    ],
+    "overview": "A NASA engineer returns to India and becomes involved in improving life in his village.",
+    "poster": "https://images.metahub.space/poster/medium/tt0367110/img"
+  },
+  {
+    "id": "tt2082197",
+    "title": "Barfi!",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "year": 2012,
+    "rating": 8.1,
+    "language": "Hindi",
+    "duration": 151,
+    "director": "Anurag Basu",
+    "cast": [
+      "Ranbir Kapoor",
+      "Priyanka Chopra"
+    ],
+    "overview": "A joyful young man forms unusual relationships while navigating love and life.",
+    "poster": "https://images.metahub.space/poster/medium/tt2082197/img"
+  },
+  {
+    "id": "tt1839596",
+    "title": "Rockstar",
+    "industry": "Bollywood",
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "year": 2011,
+    "rating": 7.7,
+    "language": "Hindi",
+    "duration": 159,
+    "director": "Imtiaz Ali",
+    "cast": [
+      "Ranbir Kapoor",
+      "Nargis Fakhri"
+    ],
+    "overview": "An aspiring musician discovers that heartbreak and struggle shape his artistic identity.",
+    "poster": "https://images.metahub.space/poster/medium/tt1839596/img"
+  },
+  {
+    "id": "tt3148502",
+    "title": "Tamasha",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "year": 2015,
+    "rating": 7.3,
+    "language": "Hindi",
+    "duration": 139,
+    "director": "Imtiaz Ali",
+    "cast": [
+      "Ranbir Kapoor",
+      "Deepika Padukone"
+    ],
+    "overview": "A man living a conventional life struggles between social expectations and his creative identity.",
+    "poster": "https://images.metahub.space/poster/medium/tt3148502/img"
+  },
+  {
+    "id": "tt2178470",
+    "title": "Yeh Jawaani Hai Deewani",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "year": 2013,
+    "rating": 7.2,
+    "language": "Hindi",
+    "duration": 160,
+    "director": "Ayan Mukerji",
+    "cast": [
+      "Ranbir Kapoor",
+      "Deepika Padukone"
+    ],
+    "overview": "Four friends reconnect years after college and confront love, ambition and adulthood.",
+    "poster": "https://images.metahub.space/poster/medium/tt2178470/img"
+  },
+  {
+    "id": "tt3322420",
+    "title": "Queen",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "year": 2013,
+    "rating": 8.2,
+    "language": "Hindi",
+    "duration": 146,
+    "director": "Vikas Bahl",
+    "cast": [
+      "Kangana Ranaut",
+      "Rajkummar Rao"
+    ],
+    "overview": "A young woman travels alone on her honeymoon after her engagement is called off.",
+    "poster": "https://images.metahub.space/poster/medium/tt3322420/img"
+  },
+  {
+    "id": "tt2395469",
+    "title": "Gully Boy",
+    "industry": "Bollywood",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "year": 2019,
+    "rating": 7.9,
+    "language": "Hindi",
+    "duration": 154,
+    "director": "Zoya Akhtar",
+    "cast": [
+      "Ranveer Singh",
+      "Alia Bhatt"
+    ],
+    "overview": "A young man from Mumbai's Dharavi discovers his voice through underground hip-hop.",
+    "poster": "https://images.metahub.space/poster/medium/tt2395469/img"
+  },
+  {
+    "id": "tt4900716",
+    "title": "Kapoor & Sons",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "year": 2016,
+    "rating": 7.7,
+    "language": "Hindi",
+    "duration": 132,
+    "director": "Shakun Batra",
+    "cast": [
+      "Sidharth Malhotra",
+      "Fawad Khan"
+    ],
+    "overview": "Two brothers return home and confront old family tensions and secrets.",
+    "poster": "https://images.metahub.space/poster/medium/tt4900716/img"
+  },
+  {
+    "id": "tt3390572",
+    "title": "Haider",
+    "industry": "Bollywood",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "year": 2014,
+    "rating": 8.0,
+    "language": "Hindi",
+    "duration": 160,
+    "director": "Vishal Bhardwaj",
+    "cast": [
+      "Shahid Kapoor",
+      "Tabu"
+    ],
+    "overview": "A young man returns to Kashmir to investigate his father's disappearance.",
+    "poster": "https://images.metahub.space/poster/medium/tt3390572/img"
+  },
+  {
+    "id": "tt1821480",
+    "title": "Kahaani",
+    "industry": "Bollywood",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Drama"
+    ],
+    "year": 2012,
+    "rating": 8.1,
+    "language": "Hindi",
+    "duration": 122,
+    "director": "Sujoy Ghosh",
+    "cast": [
+      "Vidya Balan",
+      "Parambrata Chatterjee"
+    ],
+    "overview": "A pregnant woman searches Kolkata for her missing husband and uncovers a conspiracy.",
+    "poster": "https://images.metahub.space/poster/medium/tt1821480/img"
+  },
+  {
+    "id": "tt4430212",
+    "title": "Drishyam",
+    "industry": "Bollywood",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "year": 2015,
+    "rating": 8.2,
+    "language": "Hindi",
+    "duration": 163,
+    "director": "Nishikant Kamat",
+    "cast": [
+      "Ajay Devgn",
+      "Tabu"
+    ],
+    "overview": "A family man uses careful planning to protect his family after an unexpected crime.",
+    "poster": "https://images.metahub.space/poster/medium/tt4430212/img"
+  },
+  {
+    "id": "tt15501640",
+    "title": "Drishyam 2",
+    "industry": "Bollywood",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "year": 2022,
+    "rating": 8.2,
+    "language": "Hindi",
+    "duration": 140,
+    "director": "Abhishek Pathak",
+    "cast": [
+      "Ajay Devgn",
+      "Tabu"
+    ],
+    "overview": "Years after the original incident, a family faces renewed pressure from investigators.",
+    "poster": "https://images.metahub.space/poster/medium/tt15501640/img"
+  },
+  {
+    "id": "tt8108198",
+    "title": "Andhadhun",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Thriller"
+    ],
+    "year": 2018,
+    "rating": 8.2,
+    "language": "Hindi",
+    "duration": 139,
+    "director": "Sriram Raghavan",
+    "cast": [
+      "Ayushmann Khurrana",
+      "Tabu"
+    ],
+    "overview": "A pianist pretending to be blind becomes entangled in a murder mystery.",
+    "poster": "https://images.metahub.space/poster/medium/tt8108198/img"
+  },
+  {
+    "id": "tt10324122",
+    "title": "Article 15",
+    "industry": "Bollywood",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "year": 2019,
+    "rating": 8.1,
+    "language": "Hindi",
+    "duration": 130,
+    "director": "Anubhav Sinha",
+    "cast": [
+      "Ayushmann Khurrana",
+      "Isha Talwar"
+    ],
+    "overview": "A police officer investigates the disappearance of girls in a rural district.",
+    "poster": "https://images.metahub.space/poster/medium/tt10324122/img"
+  },
+  {
+    "id": "tt10964430",
+    "title": "Thappad",
+    "industry": "Bollywood",
+    "genres": [
+      "Drama"
+    ],
+    "year": 2020,
+    "rating": 7.0,
+    "language": "Hindi",
+    "duration": 105,
+    "director": "Anubhav Sinha",
+    "cast": [
+      "Taapsee Pannu",
+      "Pavail Gulati"
+    ],
+    "overview": "A woman's response to a single act of domestic violence forces her to reconsider her marriage.",
+    "poster": "https://images.metahub.space/poster/medium/tt10964430/img"
+  },
+  {
+    "id": "tt11640118",
+    "title": "Badhaai Ho",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "year": 2018,
+    "rating": 7.9,
+    "language": "Hindi",
+    "duration": 124,
+    "director": "Amit Sharma",
+    "cast": [
+      "Ayushmann Khurrana",
+      "Neena Gupta"
+    ],
+    "overview": "A middle-aged couple's unexpected pregnancy becomes the talk of their family and neighborhood.",
+    "poster": "https://images.metahub.space/poster/medium/tt11640118/img"
+  },
+  {
+    "id": "tt5997666",
+    "title": "Bareilly Ki Barfi",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "year": 2017,
+    "rating": 7.5,
+    "language": "Hindi",
+    "duration": 116,
+    "director": "Ashwiny Iyer Tiwari",
+    "cast": [
+      "Ayushmann Khurrana",
+      "Kriti Sanon"
+    ],
+    "overview": "A free-spirited woman in a small town gets caught between two very different men.",
+    "poster": "https://images.metahub.space/poster/medium/tt5997666/img"
+  },
+  {
+    "id": "tt8108202",
+    "title": "Stree",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "year": 2018,
+    "rating": 7.5,
+    "language": "Hindi",
+    "duration": 128,
+    "director": "Amar Kaushik",
+    "cast": [
+      "Rajkummar Rao",
+      "Shraddha Kapoor"
+    ],
+    "overview": "A mysterious female spirit haunts a small town, leading residents to fear the night.",
+    "poster": "https://images.metahub.space/poster/medium/tt8108202/img"
+  },
+  {
+    "id": "tt9420648",
+    "title": "Bala",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "year": 2019,
+    "rating": 7.3,
+    "language": "Hindi",
+    "duration": 133,
+    "director": "Amar Kaushik",
+    "cast": [
+      "Ayushmann Khurrana",
+      "Bhumi Pednekar"
+    ],
+    "overview": "A young man dealing with premature hair loss learns to confront insecurity and social pressure.",
+    "poster": "https://images.metahub.space/poster/medium/tt9420648/img"
+  },
+  {
+    "id": "tt10399838",
+    "title": "Shubh Mangal Zyada Saavdhan",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "year": 2020,
+    "rating": 5.8,
+    "language": "Hindi",
+    "duration": 120,
+    "director": "Hitesh Kewalya",
+    "cast": [
+      "Ayushmann Khurrana",
+      "Jitendra Kumar"
+    ],
+    "overview": "A young couple confronts family expectations when they reveal their relationship.",
+    "poster": "https://images.metahub.space/poster/medium/tt10399838/img"
+  },
+  {
+    "id": "tt2213058",
+    "title": "Kai Po Che!",
+    "industry": "Bollywood",
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "year": 2013,
+    "rating": 7.9,
+    "language": "Hindi",
+    "duration": 126,
+    "director": "Abhishek Kapoor",
+    "cast": [
+      "Sushant Singh Rajput",
+      "Rajkummar Rao"
+    ],
+    "overview": "Three friends build a sports academy while their lives are transformed by politics and tragedy.",
+    "poster": "https://images.metahub.space/poster/medium/tt2213058/img"
+  },
+  {
+    "id": "tt4169250",
+    "title": "MS Dhoni: The Untold Story",
+    "industry": "Bollywood",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "year": 2016,
+    "rating": 7.9,
+    "language": "Hindi",
+    "duration": 184,
+    "director": "Neeraj Pandey",
+    "cast": [
+      "Sushant Singh Rajput",
+      "Kiara Advani"
+    ],
+    "overview": "The life story of Indian cricketer Mahendra Singh Dhoni.",
+    "poster": "https://images.metahub.space/poster/medium/tt4169250/img"
+  },
+  {
+    "id": "tt1324059",
+    "title": "Wake Up Sid",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "year": 2009,
+    "rating": 7.6,
+    "language": "Hindi",
+    "duration": 138,
+    "director": "Ayan Mukerji",
+    "cast": [
+      "Ranbir Kapoor",
+      "Konkona Sen Sharma"
+    ],
+    "overview": "A carefree college graduate learns responsibility after moving out of his parents' home.",
+    "poster": "https://images.metahub.space/poster/medium/tt1324059/img"
+  },
+  {
+    "id": "tt1639426",
+    "title": "Udaan",
+    "industry": "Bollywood",
+    "genres": [
+      "Drama"
+    ],
+    "year": 2010,
+    "rating": 8.1,
+    "language": "Hindi",
+    "duration": 134,
+    "director": "Vikramaditya Motwane",
+    "cast": [
+      "Rajat Barmecha",
+      "Ronit Roy"
+    ],
+    "overview": "A teenager returns home to a strict father and struggles to pursue his dream of writing.",
+    "poster": "https://images.metahub.space/poster/medium/tt1639426/img"
+  },
+  {
+    "id": "tt1620933",
+    "title": "Paan Singh Tomar",
+    "industry": "Bollywood",
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "year": 2012,
+    "rating": 8.2,
+    "language": "Hindi",
+    "duration": 135,
+    "director": "Tigmanshu Dhulia",
+    "cast": [
+      "Irrfan Khan",
+      "Mahie Gill"
+    ],
+    "overview": "A champion athlete becomes a feared rebel after facing injustice and betrayal.",
+    "poster": "https://images.metahub.space/poster/medium/tt1620933/img"
+  },
+  {
+    "id": "tt1231277",
+    "title": "Oye Lucky! Lucky Oye!",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "year": 2008,
+    "rating": 7.7,
+    "language": "Hindi",
+    "duration": 126,
+    "director": "Dibakar Banerjee",
+    "cast": [
+      "Abhay Deol",
+      "Paresh Rawal"
+    ],
+    "overview": "A charming thief turns his obsession with status and possessions into a life of crime.",
+    "poster": "https://images.metahub.space/poster/medium/tt1231277/img"
+  },
+  {
+    "id": "tt1562871",
+    "title": "Rock On!!",
+    "industry": "Bollywood",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "year": 2008,
+    "rating": 7.7,
+    "language": "Hindi",
+    "duration": 145,
+    "director": "Abhishek Kapoor",
+    "cast": [
+      "Farhan Akhtar",
+      "Arjun Rampal"
+    ],
+    "overview": "Former bandmates reunite and confront the choices that ended their musical dreams.",
+    "poster": "https://images.metahub.space/poster/medium/tt1562871/img"
+  },
+  {
+    "id": "tt0347304",
+    "title": "Veer-Zaara",
+    "industry": "Bollywood",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "year": 2004,
+    "rating": 7.8,
+    "language": "Hindi",
+    "duration": 192,
+    "director": "Yash Chopra",
+    "cast": [
+      "Shah Rukh Khan",
+      "Preity Zinta"
+    ],
+    "overview": "A love story between an Indian pilot and a Pakistani woman spans decades and borders.",
+    "poster": "https://images.metahub.space/poster/medium/tt0347304/img"
+  },
+  {
+    "id": "tt0248126",
+    "title": "Kabhi Khushi Kabhie Gham...",
+    "industry": "Bollywood",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "year": 2001,
+    "rating": 7.4,
+    "language": "Hindi",
+    "duration": 210,
+    "director": "Karan Johar",
+    "cast": [
+      "Shah Rukh Khan",
+      "Amitabh Bachchan"
+    ],
+    "overview": "A wealthy family fractures when a son chooses to marry outside the family's expectations.",
+    "poster": "https://images.metahub.space/poster/medium/tt0248126/img"
+  },
+  {
+    "id": "tt0330083",
+    "title": "Kal Ho Naa Ho",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "year": 2003,
+    "rating": 7.9,
+    "language": "Hindi",
+    "duration": 186,
+    "director": "Nikkhil Advani",
+    "cast": [
+      "Shah Rukh Khan",
+      "Preity Zinta"
+    ],
+    "overview": "A cheerful stranger changes the lives of two close friends while hiding a painful secret.",
+    "poster": "https://images.metahub.space/poster/medium/tt0330083/img"
+  },
+  {
+    "id": "tt0408236",
+    "title": "Om Shanti Om",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "year": 2007,
+    "rating": 6.7,
+    "language": "Hindi",
+    "duration": 162,
+    "director": "Farah Khan",
+    "cast": [
+      "Shah Rukh Khan",
+      "Deepika Padukone"
+    ],
+    "overview": "A struggling actor is reborn and seeks answers about the tragedy of his previous life.",
+    "poster": "https://images.metahub.space/poster/medium/tt0408236/img"
+  },
+  {
+    "id": "tt1188996",
+    "title": "Rab Ne Bana Di Jodi",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "year": 2008,
+    "rating": 7.2,
+    "language": "Hindi",
+    "duration": 167,
+    "director": "Aditya Chopra",
+    "cast": [
+      "Shah Rukh Khan",
+      "Anushka Sharma"
+    ],
+    "overview": "A shy husband creates a lively alter ego to reconnect with his wife.",
+    "poster": "https://images.metahub.space/poster/medium/tt1188996/img"
+  },
+  {
+    "id": "tt6108090",
+    "title": "Raazi",
+    "industry": "Bollywood",
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "year": 2018,
+    "rating": 7.7,
+    "language": "Hindi",
+    "duration": 138,
+    "director": "Meghna Gulzar",
+    "cast": [
+      "Alia Bhatt",
+      "Vicky Kaushal"
+    ],
+    "overview": "A young Indian woman becomes a spy after marrying into a Pakistani military family.",
+    "poster": "https://images.metahub.space/poster/medium/tt6108090/img"
+  },
+  {
+    "id": "tt6121798",
+    "title": "Sanju",
+    "industry": "Bollywood",
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "year": 2018,
+    "rating": 7.6,
+    "language": "Hindi",
+    "duration": 155,
+    "director": "Rajkumar Hirani",
+    "cast": [
+      "Ranbir Kapoor",
+      "Vicky Kaushal"
+    ],
+    "overview": "A biographical drama about the turbulent life and career of actor Sanjay Dutt.",
+    "poster": "https://images.metahub.space/poster/medium/tt6121798/img"
+  },
+  {
+    "id": "tt10083340",
+    "title": "Gangubai Kathiawadi",
+    "industry": "Bollywood",
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "year": 2022,
+    "rating": 7.7,
+    "language": "Hindi",
+    "duration": 152,
+    "director": "Sanjay Leela Bhansali",
+    "cast": [
+      "Alia Bhatt",
+      "Shantanu Maheshwari"
+    ],
+    "overview": "A young woman rises to become a powerful figure in Mumbai's red-light district.",
+    "poster": "https://images.metahub.space/poster/medium/tt10083340/img"
+  },
+  {
+    "id": "tt8239946",
+    "title": "Tumbbad",
+    "industry": "Bollywood",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "year": 2018,
+    "rating": 8.2,
+    "language": "Hindi",
+    "duration": 104,
+    "director": "Rahi Anil Barve, Adesh Prasad",
+    "cast": [
+      "Sohum Shah",
+      "Jyoti Malshe"
+    ],
+    "overview": "A family pursues a cursed treasure tied to an ancient and monstrous deity.",
+    "poster": "https://images.metahub.space/poster/medium/tt8239946/img"
+  },
+  {
+    "id": "tt3672840",
+    "title": "Talvar",
+    "industry": "Bollywood",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "year": 2015,
+    "rating": 8.1,
+    "language": "Hindi",
+    "duration": 132,
+    "director": "Meghna Gulzar",
+    "cast": [
+      "Irrfan Khan",
+      "Konkona Sen Sharma"
+    ],
+    "overview": "Multiple investigative perspectives examine a high-profile double murder.",
+    "poster": "https://images.metahub.space/poster/medium/tt3672840/img"
+  },
+  {
+    "id": "tt8111422",
+    "title": "Mulk",
+    "industry": "Bollywood",
+    "genres": [
+      "Drama"
+    ],
+    "year": 2018,
+    "rating": 8.0,
+    "language": "Hindi",
+    "duration": 140,
+    "director": "Anubhav Sinha",
+    "cast": [
+      "Rishi Kapoor",
+      "Taapsee Pannu"
+    ],
+    "overview": "A lawyer defends a Muslim family accused of terrorism after a relative commits a crime.",
+    "poster": "https://images.metahub.space/poster/medium/tt8111422/img"
+  },
+  {
+    "id": "tt8055888",
+    "title": "Mard Ko Dard Nahi Hota",
+    "industry": "Bollywood",
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "year": 2018,
+    "rating": 7.3,
+    "language": "Hindi",
+    "duration": 134,
+    "director": "Vasan Bala",
+    "cast": [
+      "Abhimanyu Dassani",
+      "Radhika Madan"
+    ],
+    "overview": "A young man who cannot feel physical pain trains to become an unlikely hero.",
+    "poster": "https://images.metahub.space/poster/medium/tt8055888/img"
+  },
+  {
+    "id": "tt1089555",
+    "title": "Luck by Chance",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "year": 2009,
+    "rating": 7.1,
+    "language": "Hindi",
+    "duration": 156,
+    "director": "Zoya Akhtar",
+    "cast": [
+      "Farhan Akhtar",
+      "Konkona Sen Sharma"
+    ],
+    "overview": "An aspiring actor enters Mumbai's film industry and learns about ambition and compromise.",
+    "poster": "https://images.metahub.space/poster/medium/tt1089555/img"
+  },
+  {
+    "id": "tt0964517",
+    "title": "Fashion",
+    "industry": "Bollywood",
+    "genres": [
+      "Drama"
+    ],
+    "year": 2008,
+    "rating": 6.9,
+    "language": "Hindi",
+    "duration": 167,
+    "director": "Madhur Bhandarkar",
+    "cast": [
+      "Priyanka Chopra",
+      "Kangana Ranaut"
+    ],
+    "overview": "A small-town woman rises through India's fashion industry and confronts its darker side.",
+    "poster": "https://images.metahub.space/poster/medium/tt0964517/img"
+  },
+  {
+    "id": "tt2181931",
+    "title": "English Vinglish",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "year": 2012,
+    "rating": 7.8,
+    "language": "Hindi",
+    "duration": 134,
+    "director": "Gauri Shinde",
+    "cast": [
+      "Sridevi",
+      "Mehdi Nebbou"
+    ],
+    "overview": "A homemaker travels to New York and gains confidence by learning English.",
+    "poster": "https://images.metahub.space/poster/medium/tt2181931/img"
+  },
+  {
+    "id": "tt0238936",
+    "title": "Devdas",
+    "industry": "Bollywood",
+    "genres": [
+      "Drama",
+      "Musical",
+      "Romance"
+    ],
+    "year": 2002,
+    "rating": 7.5,
+    "language": "Hindi",
+    "duration": 185,
+    "director": "Sanjay Leela Bhansali",
+    "cast": [
+      "Shah Rukh Khan",
+      "Aishwarya Rai"
+    ],
+    "overview": "A tragic love story follows a man whose inability to choose between love and social expectations destroys his future.",
+    "poster": "https://images.metahub.space/poster/medium/tt0238936/img"
+  },
+  {
+    "id": "tt1395054",
+    "title": "Peepli Live",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "year": 2010,
+    "rating": 7.4,
+    "language": "Hindi",
+    "duration": 109,
+    "director": "Anusha Rizvi",
+    "cast": [
+      "Omkar Das Manikpuri",
+      "Raghubir Yadav"
+    ],
+    "overview": "A farmer's desperate situation becomes a media spectacle when he threatens to take his own life.",
+    "poster": "https://images.metahub.space/poster/medium/tt1395054/img"
+  },
+  {
+    "id": "tt1275869",
+    "title": "Khosla Ka Ghosla!",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "year": 2006,
+    "rating": 8.3,
+    "language": "Hindi",
+    "duration": 135,
+    "director": "Dibakar Banerjee",
+    "cast": [
+      "Anupam Kher",
+      "Boman Irani"
+    ],
+    "overview": "A middle-class family devises an unconventional plan to reclaim stolen land.",
+    "poster": "https://images.metahub.space/poster/medium/tt1275869/img"
+  },
+  {
+    "id": "tt1077248",
+    "title": "A Wednesday!",
+    "industry": "Bollywood",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "year": 2008,
+    "rating": 8.1,
+    "language": "Hindi",
+    "duration": 104,
+    "director": "Neeraj Pandey",
+    "cast": [
+      "Naseeruddin Shah",
+      "Anupam Kher"
+    ],
+    "overview": "An ordinary man challenges the authorities with a carefully planned threat.",
+    "poster": "https://images.metahub.space/poster/medium/tt1077248/img"
+  },
+  {
+    "id": "tt1093370",
+    "title": "Jab We Met",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "year": 2007,
+    "rating": 7.9,
+    "language": "Hindi",
+    "duration": 138,
+    "director": "Imtiaz Ali",
+    "cast": [
+      "Shahid Kapoor",
+      "Kareena Kapoor"
+    ],
+    "overview": "A depressed businessman meets a spirited woman whose energy changes his life.",
+    "poster": "https://images.metahub.space/poster/medium/tt1093370/img"
+  },
+  {
+    "id": "tt9052870",
+    "title": "Chhichhore",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "year": 2019,
+    "rating": 8.0,
+    "language": "Hindi",
+    "duration": 143,
+    "director": "Nitesh Tiwari",
+    "cast": [
+      "Sushant Singh Rajput",
+      "Shraddha Kapoor"
+    ],
+    "overview": "A father recalls his college years while encouraging his son through a difficult moment.",
+    "poster": "https://images.metahub.space/poster/medium/tt9052870/img"
+  },
+  {
+    "id": "tt10687130",
+    "title": "Sardar Udham",
+    "industry": "Bollywood",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "year": 2021,
+    "rating": 8.3,
+    "language": "Hindi",
+    "duration": 164,
+    "director": "Shoojit Sircar",
+    "cast": [
+      "Vicky Kaushal",
+      "Shaun Scott"
+    ],
+    "overview": "A revolutionary seeks justice for the victims of the Jallianwala Bagh massacre.",
+    "poster": "https://images.metahub.space/poster/medium/tt10687130/img"
+  },
+  {
+    "id": "tt1169291",
+    "title": "Piku",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "year": 2015,
+    "rating": 7.6,
+    "language": "Hindi",
+    "duration": 123,
+    "director": "Shoojit Sircar",
+    "cast": [
+      "Deepika Padukone",
+      "Amitabh Bachchan"
+    ],
+    "overview": "A daughter and her aging father take a road trip that exposes their complicated relationship.",
+    "poster": "https://images.metahub.space/poster/medium/tt1169291/img"
+  },
+  {
+    "id": "tt1267297",
+    "title": "The Lunchbox",
+    "industry": "Bollywood",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "year": 2013,
+    "rating": 7.8,
+    "language": "Hindi",
+    "duration": 104,
+    "director": "Ritesh Batra",
+    "cast": [
+      "Irrfan Khan",
+      "Nimrat Kaur"
+    ],
+    "overview": "A mistaken lunchbox delivery creates an unexpected correspondence between two lonely people.",
+    "poster": "https://images.metahub.space/poster/medium/tt1267297/img"
+  },
+  {
+    "id": "tt2631186",
+    "title": "Masaan",
+    "industry": "Bollywood",
+    "genres": [
+      "Drama"
+    ],
+    "year": 2015,
+    "rating": 8.1,
+    "language": "Hindi",
+    "duration": 109,
+    "director": "Neeraj Ghaywan",
+    "cast": [
+      "Richa Chadda",
+      "Vicky Kaushal"
+    ],
+    "overview": "Several lives intersect in Varanasi as characters confront grief, social pressure and hope.",
+    "poster": "https://images.metahub.space/poster/medium/tt2631186/img"
+  },
+  {
+    "id": "tt5071886",
+    "title": "Newton",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "year": 2017,
+    "rating": 7.6,
+    "language": "Hindi",
+    "duration": 106,
+    "director": "Amit Masurkar",
+    "cast": [
+      "Rajkummar Rao",
+      "Pankaj Tripathi"
+    ],
+    "overview": "An idealistic election officer struggles to conduct a fair vote in a remote forest region.",
+    "poster": "https://images.metahub.space/poster/medium/tt5071886/img"
+  },
+  {
+    "id": "tt1327035",
+    "title": "Dev.D",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "year": 2009,
+    "rating": 7.9,
+    "language": "Hindi",
+    "duration": 144,
+    "director": "Anurag Kashyap",
+    "cast": [
+      "Abhay Deol",
+      "Mahie Gill"
+    ],
+    "overview": "A modern interpretation of a tragic love story follows three damaged young people.",
+    "poster": "https://images.metahub.space/poster/medium/tt1327035/img"
+  },
+  {
+    "id": "tt23864864",
+    "title": "Joram",
+    "industry": "Bollywood",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "year": 2023,
+    "rating": 7.5,
+    "language": "Hindi",
+    "duration": 118,
+    "director": "Devashish Makhija",
+    "cast": [
+      "Manoj Bajpayee",
+      "Tannishtha Chatterjee"
+    ],
+    "overview": "A displaced migrant man flees with his infant daughter while being pursued by a determined police officer.",
+    "poster": "https://images.metahub.space/poster/medium/tt23864864/img"
+  },
+  {
+    "id": "tt10734260",
+    "title": "Gehraiyaan",
+    "industry": "Bollywood",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "year": 2022,
+    "rating": 6.0,
+    "language": "Hindi",
+    "duration": 148,
+    "director": "Shakun Batra",
+    "cast": [
+      "Deepika Padukone",
+      "Siddhant Chaturvedi"
+    ],
+    "overview": "A relationship drama explores infidelity, ambition and unresolved family wounds.",
+    "poster": "https://images.metahub.space/poster/medium/tt10734260/img"
+  },
+  {
+    "id": "tt10295206",
+    "title": "Jugjugg Jeeyo",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "year": 2022,
+    "rating": 6.1,
+    "language": "Hindi",
+    "duration": 148,
+    "director": "Raj Mehta",
+    "cast": [
+      "Varun Dhawan",
+      "Kiara Advani"
+    ],
+    "overview": "Two couples face the complications of marriage, divorce and family expectations.",
+    "poster": "https://images.metahub.space/poster/medium/tt10295206/img"
+  },
+  {
+    "id": "tt5301942",
+    "title": "Jersey",
+    "industry": "Bollywood",
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "year": 2022,
+    "rating": 7.3,
+    "language": "Hindi",
+    "duration": 170,
+    "director": "Gowtam Tinnanuri",
+    "cast": [
+      "Shahid Kapoor",
+      "Mrunal Thakur"
+    ],
+    "overview": "A former cricketer attempts a comeback to fulfill his son's dream.",
+    "poster": "https://images.metahub.space/poster/medium/tt5301942/img"
+  },
+  {
+    "id": "tt2359810",
+    "title": "Raanjhanaa",
+    "industry": "Bollywood",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "year": 2013,
+    "rating": 7.6,
+    "language": "Hindi",
+    "duration": 140,
+    "director": "Aanand L. Rai",
+    "cast": [
+      "Dhanush",
+      "Sonam Kapoor"
+    ],
+    "overview": "A young man's lifelong love becomes entangled with politics and sacrifice.",
+    "poster": "https://images.metahub.space/poster/medium/tt2359810/img"
+  },
+  {
+    "id": "tt1625135",
+    "title": "Lootera",
+    "industry": "Bollywood",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "year": 2013,
+    "rating": 7.3,
+    "language": "Hindi",
+    "duration": 136,
+    "director": "Vikramaditya Motwane",
+    "cast": [
+      "Ranveer Singh",
+      "Sonakshi Sinha"
+    ],
+    "overview": "A con man and a young woman form a fragile bond amid deception and regret.",
+    "poster": "https://images.metahub.space/poster/medium/tt1625135/img"
+  },
+  {
+    "id": "tt0347800",
+    "title": "Lakshya",
+    "industry": "Bollywood",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "year": 2004,
+    "rating": 7.8,
+    "language": "Hindi",
+    "duration": 186,
+    "director": "Farhan Akhtar",
+    "cast": [
+      "Hrithik Roshan",
+      "Amitabh Bachchan"
+    ],
+    "overview": "An aimless young man finds purpose after joining the Indian Army.",
+    "poster": "https://images.metahub.space/poster/medium/tt0347800/img"
+  },
+  {
+    "id": "tt3863552",
+    "title": "Bajrangi Bhaijaan",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "year": 2015,
+    "rating": 8.1,
+    "language": "Hindi",
+    "duration": 163,
+    "director": "Kabir Khan",
+    "cast": [
+      "Salman Khan",
+      "Harshaali Malhotra"
+    ],
+    "overview": "A kindhearted man helps a lost Pakistani girl return to her family.",
+    "poster": "https://images.metahub.space/poster/medium/tt3863552/img"
+  },
+  {
+    "id": "tt2317337",
+    "title": "Bhaag Milkha Bhaag",
+    "industry": "Bollywood",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "year": 2013,
+    "rating": 8.2,
+    "language": "Hindi",
+    "duration": 189,
+    "director": "Rakeysh Omprakash Mehra",
+    "cast": [
+      "Farhan Akhtar",
+      "Sonam Kapoor"
+    ],
+    "overview": "The life of athlete Milkha Singh is traced from trauma to international success.",
+    "poster": "https://images.metahub.space/poster/medium/tt2317337/img"
+  },
+  {
+    "id": "tt1285241",
+    "title": "OMG: Oh My God!",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "year": 2012,
+    "rating": 8.1,
+    "language": "Hindi",
+    "duration": 125,
+    "director": "Umesh Shukla",
+    "cast": [
+      "Paresh Rawal",
+      "Akshay Kumar"
+    ],
+    "overview": "A shopkeeper challenges religious institutions after a disaster destroys his store.",
+    "poster": "https://images.metahub.space/poster/medium/tt1285241/img"
+  },
+  {
+    "id": "tt2377938",
+    "title": "Special 26",
+    "industry": "Bollywood",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "year": 2013,
+    "rating": 8.0,
+    "language": "Hindi",
+    "duration": 144,
+    "director": "Neeraj Pandey",
+    "cast": [
+      "Akshay Kumar",
+      "Manoj Bajpayee"
+    ],
+    "overview": "A group of impostors poses as government officers to carry out audacious robberies.",
+    "poster": "https://images.metahub.space/poster/medium/tt2377938/img"
+  },
+  {
+    "id": "tt10895576",
+    "title": "Mimi",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "year": 2021,
+    "rating": 7.9,
+    "language": "Hindi",
+    "duration": 132,
+    "director": "Laxman Utekar",
+    "cast": [
+      "Kriti Sanon",
+      "Pankaj Tripathi"
+    ],
+    "overview": "A young woman agrees to become a surrogate and faces unexpected changes in her life.",
+    "poster": "https://images.metahub.space/poster/medium/tt10895576/img"
+  },
+  {
+    "id": "tt10196464",
+    "title": "Ramprasad Ki Tehrvi",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "year": 2019,
+    "rating": 7.6,
+    "language": "Hindi",
+    "duration": 95,
+    "director": "Seema Pahwa",
+    "cast": [
+      "Naseeruddin Shah",
+      "Vikrant Massey"
+    ],
+    "overview": "A large family gathers for a funeral and confronts old tensions.",
+    "poster": "https://images.metahub.space/poster/medium/tt10196464/img"
+  },
+  {
+    "id": "tt0118583",
+    "title": "Dilwale Dulhania Le Jayenge",
+    "industry": "Bollywood",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "year": 1995,
+    "rating": 8.1,
+    "language": "Hindi",
+    "duration": 181,
+    "director": "Aditya Chopra",
+    "cast": [
+      "Shah Rukh Khan",
+      "Kajol"
+    ],
+    "overview": "Two young Indians fall in love in Europe while navigating traditional family expectations.",
+    "poster": "https://images.metahub.space/poster/medium/tt0118583/img"
+  },
+  {
+    "id": "tt0118992",
+    "title": "Dil To Pagal Hai",
+    "industry": "Bollywood",
+    "genres": [
+      "Drama",
+      "Musical",
+      "Romance"
+    ],
+    "year": 1997,
+    "rating": 7.0,
+    "language": "Hindi",
+    "duration": 179,
+    "director": "Yash Chopra",
+    "cast": [
+      "Shah Rukh Khan",
+      "Madhuri Dixit"
+    ],
+    "overview": "A dancer believes in destined love while a theater troupe becomes entangled in a love triangle.",
+    "poster": "https://images.metahub.space/poster/medium/tt0118992/img"
+  },
+  {
+    "id": "tt0172684",
+    "title": "Kuch Kuch Hota Hai",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "year": 1998,
+    "rating": 7.5,
+    "language": "Hindi",
+    "duration": 177,
+    "director": "Karan Johar",
+    "cast": [
+      "Shah Rukh Khan",
+      "Kajol"
+    ],
+    "overview": "A love triangle unfolds across college years and a later reunion.",
+    "poster": "https://images.metahub.space/poster/medium/tt0172684/img"
+  },
+  {
+    "id": "tt0109117",
+    "title": "Andaz Apna Apna",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy"
+    ],
+    "year": 1994,
+    "rating": 8.0,
+    "language": "Hindi",
+    "duration": 160,
+    "director": "Rajkumar Santoshi",
+    "cast": [
+      "Aamir Khan",
+      "Salman Khan"
+    ],
+    "overview": "Two lovable slackers compete to win the attention of a wealthy heiress.",
+    "poster": "https://images.metahub.space/poster/medium/tt0109117/img"
+  },
+  {
+    "id": "tt0374887",
+    "title": "Munna Bhai M.B.B.S.",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "year": 2003,
+    "rating": 8.1,
+    "language": "Hindi",
+    "duration": 156,
+    "director": "Rajkumar Hirani",
+    "cast": [
+      "Sanjay Dutt",
+      "Arshad Warsi"
+    ],
+    "overview": "A gangster pretends to be a doctor and learns the value of compassion.",
+    "poster": "https://images.metahub.space/poster/medium/tt0374887/img"
+  },
+  {
+    "id": "tt0456144",
+    "title": "Lage Raho Munna Bhai",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "year": 2006,
+    "rating": 8.0,
+    "language": "Hindi",
+    "duration": 144,
+    "director": "Rajkumar Hirani",
+    "cast": [
+      "Sanjay Dutt",
+      "Arshad Warsi"
+    ],
+    "overview": "A gangster begins following Gandhi's principles after experiencing a series of unusual visions.",
+    "poster": "https://images.metahub.space/poster/medium/tt0456144/img"
+  },
+  {
+    "id": "tt1373156",
+    "title": "Karthik Calling Karthik",
+    "industry": "Bollywood",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "year": 2010,
+    "rating": 7.0,
+    "language": "Hindi",
+    "duration": 135,
+    "director": "Vijay Lalwani",
+    "cast": [
+      "Farhan Akhtar",
+      "Deepika Padukone"
+    ],
+    "overview": "A lonely man receives mysterious phone calls from someone claiming to be himself.",
+    "poster": "https://images.metahub.space/poster/medium/tt1373156/img"
+  },
+  {
+    "id": "tt23849204",
+    "title": "12th Fail",
+    "industry": "Bollywood",
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "year": 2023,
+    "rating": 8.7,
+    "language": "Hindi",
+    "duration": 147,
+    "director": "Vidhu Vinod Chopra",
+    "cast": [
+      "Vikrant Massey",
+      "Medha Shankr"
+    ],
+    "overview": "The real-life journey of a young man who overcomes poverty and repeated setbacks while pursuing the civil services.",
+    "poster": "https://images.metahub.space/poster/medium/tt23849204/img"
+  },
+  {
+    "id": "tt0164538",
+    "title": "Dil Se..",
+    "industry": "Bollywood",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "year": 1998,
+    "rating": 7.5,
+    "language": "Hindi",
+    "duration": 163,
+    "director": "Mani Ratnam",
+    "cast": [
+      "Shah Rukh Khan",
+      "Manisha Koirala"
+    ],
+    "overview": "A radio broadcaster becomes deeply involved with a mysterious woman whose life is shaped by conflict.",
+    "poster": "https://images.metahub.space/poster/medium/tt0164538/img"
+  },
+  {
+    "id": "tt0461936",
+    "title": "Don",
+    "industry": "Bollywood",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "year": 2006,
+    "rating": 7.2,
+    "language": "Hindi",
+    "duration": 171,
+    "director": "Farhan Akhtar",
+    "cast": [
+      "Shah Rukh Khan",
+      "Priyanka Chopra"
+    ],
+    "overview": "A man is recruited to impersonate a notorious gangster and becomes trapped in a dangerous criminal conspiracy.",
+    "poster": "https://images.metahub.space/poster/medium/tt0461936/img"
+  },
+  {
+    "id": "tt0375611",
+    "title": "Black",
+    "industry": "Bollywood",
+    "genres": [
+      "Drama"
+    ],
+    "year": 2005,
+    "rating": 8.1,
+    "language": "Hindi",
+    "duration": 122,
+    "director": "Sanjay Leela Bhansali",
+    "cast": [
+      "Amitabh Bachchan",
+      "Rani Mukerji"
+    ],
+    "overview": "A teacher helps a deaf-blind girl learn to communicate and pursue an independent life.",
+    "poster": "https://images.metahub.space/poster/medium/tt0375611/img"
+  },
+  {
+    "id": "tt0379370",
+    "title": "Maqbool",
+    "industry": "Bollywood",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "year": 2003,
+    "rating": 8.0,
+    "language": "Hindi",
+    "duration": 132,
+    "director": "Vishal Bhardwaj",
+    "cast": [
+      "Irrfan Khan",
+      "Tabu"
+    ],
+    "overview": "Shakespeare's Macbeth is reimagined inside Mumbai's criminal underworld.",
+    "poster": "https://images.metahub.space/poster/medium/tt0379370/img"
+  },
+  {
+    "id": "tt4110568",
+    "title": "Dil Dhadakne Do",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "year": 2015,
+    "rating": 7.1,
+    "language": "Hindi",
+    "duration": 170,
+    "director": "Zoya Akhtar",
+    "cast": [
+      "Anil Kapoor",
+      "Priyanka Chopra"
+    ],
+    "overview": "A wealthy family confronts its relationships and expectations during a cruise.",
+    "poster": "https://images.metahub.space/poster/medium/tt4110568/img"
+  },
+  {
+    "id": "tt0050870",
+    "title": "Pyaasa",
+    "industry": "Bollywood",
+    "genres": [
+      "Drama",
+      "Musical",
+      "Romance"
+    ],
+    "year": 1957,
+    "rating": 8.3,
+    "language": "Hindi",
+    "duration": 146,
+    "director": "Guru Dutt",
+    "cast": [
+      "Guru Dutt",
+      "Waheeda Rehman"
+    ],
+    "overview": "A struggling poet searches for recognition and meaning in a materialistic world.",
+    "poster": "https://images.metahub.space/poster/medium/tt0050870/img"
+  },
+  {
+    "id": "tt1805263",
+    "title": "I Am Kalam",
+    "industry": "Bollywood",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "year": 2010,
+    "rating": 7.9,
+    "language": "Hindi",
+    "duration": 88,
+    "director": "Nila Madhab Panda",
+    "cast": [
+      "Harsh Mayar",
+      "Gulshan Grover"
+    ],
+    "overview": "A poor boy inspired by A. P. J. Abdul Kalam dreams of education and a better future.",
+    "poster": "https://images.metahub.space/poster/medium/tt1805263/img"
+  },
+  {
+    "id": "tt8108200",
+    "title": "Sonchiriya",
+    "industry": "Bollywood",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Western"
+    ],
+    "year": 2019,
+    "rating": 7.9,
+    "language": "Hindi",
+    "duration": 143,
+    "director": "Abhishek Chaubey",
+    "cast": [
+      "Sushant Singh Rajput",
+      "Bhumi Pednekar"
+    ],
+    "overview": "Warring dacoit groups struggle with violence, loyalty and redemption in the Chambal Valley.",
+    "poster": "https://images.metahub.space/poster/medium/tt8108200/img"
+  },
+  {
+    "id": "tt8902990",
+    "title": "The Sky Is Pink",
+    "industry": "Bollywood",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "year": 2019,
+    "rating": 7.6,
+    "language": "Hindi",
+    "duration": 143,
+    "director": "Shonali Bose",
+    "cast": [
+      "Priyanka Chopra",
+      "Farhan Akhtar"
+    ],
+    "overview": "A family story spanning decades is told through the eyes of a daughter facing a serious illness.",
+    "poster": "https://images.metahub.space/poster/medium/tt8902990/img"
+  }
+]
