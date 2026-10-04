@@ -1,9 +1,36 @@
-# React + Vite
+# CodeVerse
+## Atharav Dalvi && Ashutosh Shelar 
+# Movie Night 
+## Objective
+This was webpage was made to recommend a movie base on the Database provide from MindSpark term (movies.js) 
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+## Features
 
-Currently, two official plugins are available:
+- Search movies by **title or genre**
+- Filter by **genre** and **language**
+- Sort by **rating** or **release year**
+- Add / remove movies from a **watchlist**
+- View a **watchlist-only** page
+- **Tonight's Pick**: random movie recommendation
+- **Details modal** with poster, director, duration, language, genres, rating, overview and cast
+- **Dark / Light mode**
+- Fallback handling for broken poster images
 
+## Project Structure
+
+```
+src/
+├── App.js            # Main component (all logic + UI)
+├── App.css           # Styles
+└── data/
+    └── movies.json   # Movie dataset
+```
+
+## Flow use is 
+we had use vite.js,talwind.css, movies.json file etc
+
+### This is the overall flow of the project 
+the plugin use is given bellow:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
