@@ -1,11 +1,11 @@
 /* Movie Night App - Main Stylesheet */
 
 body {
-  background:
-    radial-gradient(circle at 20% 30%, #ff00ff 0%, transparent 30%),
-    radial-gradient(circle at 80% 20%, #00ffff 0%, transparent 30%),
-    radial-gradient(circle at 70% 80%, #39ff14 0%, transparent 30%),
-    radial-gradient(circle at 20% 80%, #6a00ff 0%, transparent 30%), #050510;
+   margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f0f2f5;
+  color: #333;
 }
 
 .app-wrapper {
