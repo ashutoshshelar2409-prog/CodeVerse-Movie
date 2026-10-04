@@ -1,18 +1,20 @@
 /* Movie Night App - Main Stylesheet */
 
 body {
-  margin: 0;
-  padding: 0;
-  font-family: Arial, Helvetica, sans-serif;
-  background-color: #f0f2f5;
-  color: #333;
+  background:
+    radial-gradient(circle at 20% 30%, #ff00ff 0%, transparent 30%),
+    radial-gradient(circle at 80% 20%, #00ffff 0%, transparent 30%),
+    radial-gradient(circle at 70% 80%, #39ff14 0%, transparent 30%),
+    radial-gradient(circle at 20% 80%, #6a00ff 0%, transparent 30%), #050510;
 }
 
 .app-wrapper {
   min-height: 100vh;
   background-color: #f0f2f5;
   color: #333;
-  transition: background-color 0.3s ease, color 0.3s ease;
+  transition:
+    background-color 0.3s ease,
+    color 0.3s ease;
 }
 
 .app {
@@ -132,7 +134,7 @@ body {
   display: flex;
   gap: 15px;
   flex-wrap: wrap;
-  background-color: white;
+  background-color: #c778da;
   padding: 18px;
   border-radius: 10px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
