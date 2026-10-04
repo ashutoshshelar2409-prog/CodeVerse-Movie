@@ -1,115 +1,21 @@
 import React, { useState } from 'react';
+import moviesData from './data/movies.json';
 import './App.css';
-
-// Movie Data Array
-const moviesData = [
-  {
-    id: 1,
-    title: "The Shawshank Redemption",
-    year: 1994,
-    genre: "Drama",
-    rating: 9.3,
-    duration: "2h 22m",
-    language: "English",
-    poster: "https://images.unsplash.com/photo-1536440136628-849c177e76a1?auto=format&fit=crop&w=500&q=80",
-    description: "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
-    trailerUrl: "https://www.youtube.com/embed/PLl99D0A64c"
-  },
-  {
-    id: 2,
-    title: "The Dark Knight",
-    year: 2008,
-    genre: "Action",
-    rating: 9.0,
-    duration: "2h 32m",
-    language: "English",
-    poster: "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=500&q=80",
-    description: "When the menace known as the Joker wreaks havoc on Gotham, Batman must accept one of the greatest psychological tests.",
-    trailerUrl: "https://www.youtube.com/embed/EXeTwQWrcwY"
-  },
-  {
-    id: 3,
-    title: "Inception",
-    year: 2010,
-    genre: "Sci-Fi",
-    rating: 8.8,
-    duration: "2h 28m",
-    language: "English",
-    poster: "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=500&q=80",
-    description: "A thief who steals corporate secrets through dream-sharing technology is given the task of planting an idea into a CEO's mind.",
-    trailerUrl: "https://www.youtube.com/embed/YoHD9XEInc0"
-  },
-  {
-    id: 4,
-    title: "Interstellar",
-    year: 2014,
-    genre: "Sci-Fi",
-    rating: 8.7,
-    duration: "2h 49m",
-    language: "English",
-    poster: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=500&q=80",
-    description: "When Earth becomes uninhabitable, a team of astronauts travels through a wormhole in search of a new home for humanity.",
-    trailerUrl: "https://www.youtube.com/embed/zSWdZVtXT7E"
-  },
-  {
-    id: 5,
-    title: "Pulp Fiction",
-    year: 1994,
-    genre: "Crime",
-    rating: 8.9,
-    duration: "2h 34m",
-    language: "English",
-    poster: "https://images.unsplash.com/photo-1485846234645-a62644f84728?auto=format&fit=crop&w=500&q=80",
-    description: "The lives of two mob hitmen, a boxer, a gangster and his wife entwine in four tales of violence and redemption.",
-    trailerUrl: "https://www.youtube.com/embed/s7EdQ4FqbhY"
-  },
-  {
-    id: 6,
-    title: "Spirited Away",
-    year: 2001,
-    genre: "Animation",
-    rating: 8.6,
-    duration: "2h 5m",
-    language: "Japanese",
-    poster: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=500&q=80",
-    description: "A 10-year-old girl wanders into a world ruled by gods, witches, and spirits, where humans are changed into beasts.",
-    trailerUrl: "https://www.youtube.com/embed/ByXuk9QqQkk"
-  },
-  {
-    id: 7,
-    title: "Parasite",
-    year: 2019,
-    genre: "Drama",
-    rating: 8.5,
-    duration: "2h 12m",
-    language: "Korean",
-    poster: "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=500&q=80",
-    description: "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
-    trailerUrl: "https://www.youtube.com/embed/5xH0HfJHsaY"
-  },
-  {
-    id: 8,
-    title: "Cyber Nexus 2099",
-    year: 2025,
-    genre: "Sci-Fi",
-    rating: 9.1,
-    duration: "2h 20m",
-    language: "English",
-    poster: "https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&w=500&q=80",
-    description: "In a neon futuristic city, a rogue hacker uncovers an AI code that threatens to alter human consciousness forever.",
-    trailerUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ"
-  }
-];
 
 function App() {
   // 1. React State Variables
   const [searchTerm, setSearchTerm] = useState("");
   const [selectedGenre, setSelectedGenre] = useState("All");
+  const [selectedLanguage, setSelectedLanguage] = useState("All");
   const [sortBy, setSortBy] = useState("none");
   const [watchlist, setWatchlist] = useState([]);
   const [selectedMovie, setSelectedMovie] = useState(null); // Modal details
-  const [tonightPick, setTonightPick] = useState(null); // Tonight's Pick recommendation
+  const [tonightPick, setTonightPick] = useState(null); // Tonight's recommended movie
   const [showWatchlistOnly, setShowWatchlistOnly] = useState(false);
+
+  // Extract unique genres & languages for dropdown filters
+  const allGenres = ["All", ...Array.from(new Set(moviesData.flatMap(m => m.genres || []))).sort()];
+  const allLanguages = ["All", ...Array.from(new Set(moviesData.map(m => m.language).filter(Boolean))).sort()];
 
   // 2. Add or Remove Movie from Watchlist
   const toggleWatchlist = (movieId) => {
@@ -120,7 +26,7 @@ function App() {
     }
   };
 
-  // 3. Tonight's Pick Feature: Randomly select a movie to watch tonight!
+  // 3. Tonight's Pick Feature: Randomly recommend a top movie!
   const pickTonightMovie = () => {
     const randomIndex = Math.floor(Math.random() * moviesData.length);
     const chosenMovie = moviesData[randomIndex];
@@ -138,13 +44,16 @@ function App() {
     // Search by title OR genre
     const query = searchTerm.toLowerCase().trim();
     const matchesTitle = movie.title.toLowerCase().includes(query);
-    const matchesGenreQuery = movie.genre.toLowerCase().includes(query);
+    const matchesGenreQuery = movie.genres && movie.genres.some(g => g.toLowerCase().includes(query));
     const matchesSearch = matchesTitle || matchesGenreQuery;
 
     // Filter by Genre dropdown
-    const matchesGenreSelect = selectedGenre === "All" || movie.genre === selectedGenre;
+    const matchesGenreSelect = selectedGenre === "All" || (movie.genres && movie.genres.includes(selectedGenre));
 
-    return matchesSearch && matchesGenreSelect;
+    // Filter by Language dropdown
+    const matchesLanguageSelect = selectedLanguage === "All" || movie.language === selectedLanguage;
+
+    return matchesSearch && matchesGenreSelect && matchesLanguageSelect;
   });
 
   // 5. Sort Movies by Rating or Release Year
@@ -154,13 +63,19 @@ function App() {
     displayedMovies.sort((a, b) => b.year - a.year); // Newest release year first
   }
 
+  // Image error handler for broken poster URLs
+  const handleImageError = (e) => {
+    e.target.onerror = null;
+    e.target.src = "https://images.unsplash.com/photo-1485846234645-a62644f84728?auto=format&fit=crop&w=500&q=80";
+  };
+
   return (
     <div className="app">
-      {/* Navbar Header */}
+      {/* Header Navigation */}
       <header className="header">
         <div className="logo-section">
           <h1>🍿 Movie Night</h1>
-          <p>Find the perfect movie for your night in!</p>
+          <p>Explore {moviesData.length} movies from our dataset!</p>
         </div>
 
         {/* Tonight's Pick Button & Watchlist Toggle */}
@@ -190,14 +105,14 @@ function App() {
         </div>
       )}
 
-      {/* Controls Bar: Search, Genre Filter, Sort Dropdown */}
+      {/* Controls Bar: Search, Genre Filter, Language Filter, Sort Dropdown */}
       <div className="controls">
         {/* Search by Title or Genre */}
         <div className="control-group">
           <label>Search Movie:</label>
           <input
             type="text"
-            placeholder="Search by title or genre..."
+            placeholder="Search title or genre..."
             value={searchTerm}
             onChange={(e) => setSearchTerm(e.target.value)}
             className="input-box"
@@ -206,18 +121,29 @@ function App() {
 
         {/* Genre Filter */}
         <div className="control-group">
-          <label>Filter Genre:</label>
+          <label>Genre:</label>
           <select
             value={selectedGenre}
             onChange={(e) => setSelectedGenre(e.target.value)}
             className="select-box"
           >
-            <option value="All">All Genres</option>
-            <option value="Action">Action</option>
-            <option value="Drama">Drama</option>
-            <option value="Sci-Fi">Sci-Fi</option>
-            <option value="Crime">Crime</option>
-            <option value="Animation">Animation</option>
+            {allGenres.map((g) => (
+              <option key={g} value={g}>{g}</option>
+            ))}
+          </select>
+        </div>
+
+        {/* Language Filter */}
+        <div className="control-group">
+          <label>Language:</label>
+          <select
+            value={selectedLanguage}
+            onChange={(e) => setSelectedLanguage(e.target.value)}
+            className="select-box"
+          >
+            {allLanguages.map((l) => (
+              <option key={l} value={l}>{l}</option>
+            ))}
           </select>
         </div>
 
@@ -249,11 +175,16 @@ function App() {
 
             return (
               <div key={movie.id} className="movie-card">
-                <img src={movie.poster} alt={movie.title} className="movie-poster" />
+                <img 
+                  src={movie.poster} 
+                  alt={movie.title} 
+                  className="movie-poster"
+                  onError={handleImageError}
+                />
                 
                 <div className="card-body">
                   <h3 className="movie-title">{movie.title}</h3>
-                  <p className="movie-tag"><strong>Genre:</strong> {movie.genre}</p>
+                  <p className="movie-tag"><strong>Genre:</strong> {movie.genres ? movie.genres.join(", ") : "N/A"}</p>
                   <p className="movie-tag"><strong>Year:</strong> {movie.year}</p>
                   <p className="movie-rating">⭐ <strong>{movie.rating}</strong> / 10</p>
 
@@ -278,7 +209,7 @@ function App() {
           })
         ) : (
           <div className="no-movies">
-            <p>No movies found!</p>
+            <p>No movies found matching your search!</p>
             {showWatchlistOnly && <p>Your watchlist is currently empty. Click "Add to Watchlist" on any movie card!</p>}
           </div>
         )}
@@ -290,27 +221,39 @@ function App() {
           <div className="modal-box" onClick={(e) => e.stopPropagation()}>
             <button className="close-btn" onClick={() => setSelectedMovie(null)}>✖ Close</button>
             
-            <h2>{selectedMovie.title}</h2>
-
-            {/* Feature 4: Display duration, language, rating, year, genre */}
-            <div className="detail-tags">
-              <span className="badge">🗓 Year: {selectedMovie.year}</span>
-              <span className="badge">⏱ Duration: {selectedMovie.duration}</span>
-              <span className="badge">🗣 Language: {selectedMovie.language}</span>
-              <span className="badge">🎭 Genre: {selectedMovie.genre}</span>
-              <span className="badge rating-badge">⭐ Rating: {selectedMovie.rating}/10</span>
+            <div className="modal-header-flex">
+              <img 
+                src={selectedMovie.poster} 
+                alt={selectedMovie.title} 
+                className="modal-poster"
+                onError={handleImageError}
+              />
+              <div className="modal-header-text">
+                <h2>{selectedMovie.title}</h2>
+                <p className="director-name"><strong>Director:</strong> {selectedMovie.director || "N/A"}</p>
+                {selectedMovie.industry && <p className="industry-name"><strong>Industry:</strong> {selectedMovie.industry}</p>}
+                
+                {/* Feature 4: Display duration, language, rating, year, genre */}
+                <div className="detail-tags">
+                  <span className="badge">🗓 Year: {selectedMovie.year}</span>
+                  <span className="badge">⏱ Duration: {selectedMovie.duration ? `${selectedMovie.duration} mins` : "N/A"}</span>
+                  <span className="badge">🗣 Language: {selectedMovie.language || "N/A"}</span>
+                  <span className="badge">🎭 Genre: {selectedMovie.genres ? selectedMovie.genres.join(", ") : "N/A"}</span>
+                  <span className="badge rating-badge">⭐ Rating: {selectedMovie.rating}/10</span>
+                </div>
+              </div>
             </div>
 
-            <p className="description">{selectedMovie.description}</p>
+            <div className="modal-body-section">
+              <h4>Overview:</h4>
+              <p className="description">{selectedMovie.overview || "No overview available for this movie."}</p>
 
-            {/* Trailer Embed */}
-            <div className="trailer-box">
-              <h4>Watch Trailer:</h4>
-              <iframe
-                src={selectedMovie.trailerUrl}
-                title={selectedMovie.title}
-                allowFullScreen
-              ></iframe>
+              {selectedMovie.cast && selectedMovie.cast.length > 0 && (
+                <div className="cast-box">
+                  <h4>Starring Cast:</h4>
+                  <p className="cast-list">{selectedMovie.cast.join(", ")}</p>
+                </div>
+              )}
             </div>
 
             <div className="modal-footer">
@@ -327,7 +270,7 @@ function App() {
 
       {/* Footer */}
       <footer className="footer">
-        <p>© {new Date().getFullYear()} Movie Night Web App. Simple & Easy First-Year Project.</p>
+        <p>© {new Date().getFullYear()} Movie Night Web App. Connected to provided movies.json dataset.</p>
       </footer>
     </div>
   );
